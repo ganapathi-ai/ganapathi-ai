@@ -1,4 +1,4 @@
-﻿<img src="https://capsule-render.vercel.app/api?type=waving&color=0:FFF5FB,18:F8EBFB,42:F0DCFF,72:E2C0F6,100:AD63E6&height=260&section=header&text=Ganapathi%20Kakarla&fontSize=70&fontAlignY=38&fontColor=4F355A&desc=AI%20Engineer%20%7C%20Data%20Scientist%20%7C%20Healthcare%20Specialist&descAlignY=56&animation=twinkling" width="100%" alt="Header banner" />
+﻿<img src="https://capsule-render.vercel.app/api?type=waving&color=0:FBE3F0,20:F4D8F5,46:E7D2FA,74:DBB6F3,100:AD63E6&height=260&section=header&text=Ganapathi%20Kakarla&fontSize=70&fontAlignY=38&fontColor=4F355A&desc=AI%20Engineer%20%7C%20Data%20Scientist%20%7C%20Healthcare%20Specialist&descAlignY=56&animation=twinkling" width="100%" alt="Header banner" />
 
 <p align="center">
   <img src="./assets/system-hero.svg" width="100%" alt="Profile hero banner" />
@@ -19,7 +19,7 @@ Currently pursuing a **PGDM in AI and Data Science (Healthcare)** at **IIHMR Ban
 ## Education & Experience
 
 <p align="center">
-  <img src="./assets/timeline-system.svg" width="100%" alt="Professional timeline" />
+  <img src="./assets/timeline-system.svg?v=20260404" width="100%" alt="Professional timeline" />
 </p>
 
 ## Core Strengths
@@ -72,15 +72,15 @@ Currently pursuing a **PGDM in AI and Data Science (Healthcare)** at **IIHMR Ban
 <table>
   <tr>
     <td width="50%">
-      <img src="https://github-readme-stats.vercel.app/api?username=ganapathi-ai&show_icons=true&hide_border=true&bg_color=00000000&title_color=D85C96&text_color=765F79&icon_color=E2C0F6&ring_color=AD63E6" width="100%" alt="GitHub stats" />
+      <img src="https://github-readme-stats.vercel.app/api?username=ganapathi-ai&show_icons=true&hide_border=true&bg_color=F7E3F4&title_color=D85C96&text_color=765F79&icon_color=DBB6F3&ring_color=AD63E6" width="100%" alt="GitHub stats" />
     </td>
     <td width="50%">
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=ganapathi-ai&background=00000000&ring=AD63E6&fire=D85C96&currStreakLabel=4F355A&sideLabels=765F79&dates=8E6D8D&hide_border=true&stroke=00000000" width="100%" alt="GitHub streak" />
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=ganapathi-ai&background=F7E3F4&ring=AD63E6&fire=D85C96&currStreakLabel=4F355A&sideLabels=765F79&dates=8E6D8D&hide_border=true&stroke=00000000" width="100%" alt="GitHub streak" />
     </td>
   </tr>
   <tr>
     <td colspan="2">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ganapathi-ai&layout=compact&hide_border=true&bg_color=00000000&title_color=D85C96&text_color=765F79" width="100%" alt="Top languages" />
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ganapathi-ai&layout=compact&hide_border=true&bg_color=F7E3F4&title_color=D85C96&text_color=765F79" width="100%" alt="Top languages" />
     </td>
   </tr>
 </table>
@@ -92,7 +92,7 @@ Currently pursuing a **PGDM in AI and Data Science (Healthcare)** at **IIHMR Ban
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ganapathi-ai&bg_color=FFF6FB&color=8E6D8D&line=D85C96&point=E2C0F6&area=true&hide_border=true" width="100%" alt="Contribution activity graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ganapathi-ai&bg_color=FBE3F0&color=8E6D8D&line=D85C96&point=DBB6F3&area=true&hide_border=true" width="100%" alt="Contribution activity graph" />
 </p>
 
 ## Connect
@@ -113,7 +113,8 @@ Currently pursuing a **PGDM in AI and Data Science (Healthcare)** at **IIHMR Ban
   <img src="./assets/terminal-quote.svg" width="100%" alt="Closing terminal panel" />
 </p>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:FFF5FB,18:F8EBFB,42:F0DCFF,72:E2C0F6,100:AD63E6&height=160&section=footer" width="100%" alt="Footer banner" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:FBE3F0,20:F4D8F5,46:E7D2FA,74:DBB6F3,100:AD63E6&height=160&section=footer" width="100%" alt="Footer banner" />
+
 
 
 

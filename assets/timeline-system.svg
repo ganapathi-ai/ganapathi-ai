@@ -1,13 +1,13 @@
 ﻿<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 500" role="img" aria-labelledby="title desc">
-  <title id="title">Timeline system</title>
-  <desc id="desc">Two-track timeline showing education and experience milestones.</desc>
+  <title id="title">Professional timeline</title>
+  <desc id="desc">Timeline showing major academic and professional milestones.</desc>
   <defs>
     <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%">
-      <stop offset="0%" stop-color="#FFF6FB"/>
-      <stop offset="100%" stop-color="#ECDCF8"/>
+      <stop offset="0%" stop-color="#FBE3F0"/>
+      <stop offset="100%" stop-color="#E7D2FA"/>
     </linearGradient>
     <linearGradient id="edu" x1="0%" y1="0%" x2="100%" y2="0%">
-      <stop offset="0%" stop-color="#D9A7F2"/>
+      <stop offset="0%" stop-color="#D49BEF"/>
       <stop offset="100%" stop-color="#AD63E6"/>
     </linearGradient>
     <linearGradient id="exp" x1="0%" y1="0%" x2="100%" y2="0%">
@@ -16,13 +16,13 @@
     </linearGradient>
   </defs>
   <rect width="1200" height="500" rx="28" fill="url(#bg)"/>
-  <rect x="28" y="28" width="1144" height="444" rx="24" fill="#FFF9FC" fill-opacity="0.82" stroke="#AD63E6" stroke-opacity="0.35"/>
+  <rect x="28" y="28" width="1144" height="444" rx="24" fill="#F7E3F4" fill-opacity="0.82" stroke="#AD63E6" stroke-opacity="0.35"/>
 
-  <text x="88" y="110" fill="#AD63E6" font-family="Consolas, 'Courier New', monospace" font-size="17" font-weight="700">EDUCATION TRACK</text>
+  <text x="88" y="110" fill="#AD63E6" font-family="Consolas, 'Courier New', monospace" font-size="17" font-weight="700">EDUCATION</text>
   <path d="M88 138 H1112" stroke="url(#edu)" stroke-width="3" stroke-linecap="round"/>
 
   <g transform="translate(146 138)">
-    <circle r="12" fill="#D9A7F2"/>
+    <circle r="12" fill="#D49BEF"/>
     <text x="-24" y="-28" fill="#4F355A" font-family="Segoe UI, Arial, sans-serif" font-size="18" font-weight="700">2016</text>
     <text x="-40" y="46" fill="#4F355A" font-family="Segoe UI, Arial, sans-serif" font-size="15" font-weight="700">10th Class</text>
     <text x="-74" y="68" fill="#8E6D8D" font-family="Segoe UI, Arial, sans-serif" font-size="13" font-weight="600">Andhra Pradesh</text>
@@ -30,7 +30,7 @@
   </g>
 
   <g transform="translate(384 138)">
-    <circle r="12" fill="#D9A7F2"/>
+    <circle r="12" fill="#D49BEF"/>
     <text x="-24" y="-28" fill="#4F355A" font-family="Segoe UI, Arial, sans-serif" font-size="18" font-weight="700">2018</text>
     <text x="-48" y="46" fill="#4F355A" font-family="Segoe UI, Arial, sans-serif" font-size="15" font-weight="700">Intermediate</text>
     <text x="-74" y="68" fill="#8E6D8D" font-family="Segoe UI, Arial, sans-serif" font-size="13" font-weight="600">Sri Chaitanya</text>
@@ -38,7 +38,7 @@
   </g>
 
   <g transform="translate(656 138)">
-    <circle r="12" fill="#D9A7F2"/>
+    <circle r="12" fill="#D49BEF"/>
     <text x="-24" y="-28" fill="#4F355A" font-family="Segoe UI, Arial, sans-serif" font-size="18" font-weight="700">2025</text>
     <text x="-88" y="46" fill="#4F355A" font-family="Segoe UI, Arial, sans-serif" font-size="15" font-weight="700">B.Sc Cardiac Care and</text>
     <text x="-102" y="68" fill="#4F355A" font-family="Segoe UI, Arial, sans-serif" font-size="15" font-weight="700">Cardiovascular Technology</text>
@@ -47,7 +47,7 @@
   </g>
 
   <g transform="translate(964 138)">
-    <circle r="12" fill="#D9A7F2"/>
+    <circle r="12" fill="#D49BEF"/>
     <text x="-48" y="-28" fill="#4F355A" font-family="Segoe UI, Arial, sans-serif" font-size="18" font-weight="700">2025 - 2027</text>
     <text x="-104" y="46" fill="#4F355A" font-family="Segoe UI, Arial, sans-serif" font-size="15" font-weight="700">PGDM AI and Data Science</text>
     <text x="-40" y="68" fill="#4F355A" font-family="Segoe UI, Arial, sans-serif" font-size="15" font-weight="700">(Healthcare)</text>
@@ -89,6 +89,7 @@
     <text x="-30" y="90" fill="#8E6D8D" font-family="Segoe UI, Arial, sans-serif" font-size="13" font-weight="600">Ethara.AI</text>
   </g>
 </svg>
+
 
 
 

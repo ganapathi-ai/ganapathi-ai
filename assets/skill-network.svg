@@ -3,8 +3,8 @@
   <desc id="desc">Clustered skill map showing connected strengths across AI, analytics, healthcare, and development.</desc>
   <defs>
     <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%">
-      <stop offset="0%" stop-color="#FFF6FB"/>
-      <stop offset="100%" stop-color="#ECDCF8"/>
+      <stop offset="0%" stop-color="#FBE3F0"/>
+      <stop offset="100%" stop-color="#E7D2FA"/>
     </linearGradient>
     <filter id="glow" x="-40%" y="-40%" width="180%" height="180%">
       <feGaussianBlur stdDeviation="7" result="blur"/>
@@ -15,7 +15,7 @@
     </filter>
   </defs>
   <rect width="1200" height="500" rx="28" fill="url(#bg)"/>
-  <rect x="24" y="24" width="1152" height="452" rx="24" fill="#FFF9FC" fill-opacity="0.85" stroke="#D28BE7" stroke-opacity="0.3"/>
+  <rect x="24" y="24" width="1152" height="452" rx="24" fill="#F7E3F4" fill-opacity="0.85" stroke="#D28BE7" stroke-opacity="0.3"/>
 
   <g stroke-linecap="round" opacity="0.48">
     <path d="M600 252 L344 152" stroke="#D85C96" stroke-width="2"/>
@@ -45,25 +45,25 @@
   </g>
 
   <g filter="url(#glow)">
-    <circle cx="600" cy="252" r="60" fill="#FBEAFC" stroke="#D85C96" stroke-width="2"/>
+    <circle cx="600" cy="252" r="60" fill="#F4D8F5" stroke="#D85C96" stroke-width="2"/>
     <text x="600" y="246" text-anchor="middle" fill="#4F355A" font-family="Consolas, 'Courier New', monospace" font-size="24">AI CORE</text>
     <text x="600" y="274" text-anchor="middle" fill="#AD63E6" font-family="Segoe UI, Arial, sans-serif" font-size="18">Ganapathi AI</text>
   </g>
 
   <g font-family="Segoe UI, Arial, sans-serif">
-    <rect x="272" y="120" width="144" height="64" rx="32" fill="#F6E5FC" stroke="#D85C96" stroke-width="2"/>
+    <rect x="272" y="120" width="144" height="64" rx="32" fill="#F1D9F9" stroke="#D85C96" stroke-width="2"/>
     <text x="344" y="159" text-anchor="middle" fill="#4F355A" font-size="18">AI / ML</text>
 
-    <rect x="242" y="324" width="204" height="64" rx="32" fill="#F6E5FC" stroke="#AD63E6" stroke-width="2"/>
+    <rect x="242" y="324" width="204" height="64" rx="32" fill="#F1D9F9" stroke="#AD63E6" stroke-width="2"/>
     <text x="344" y="363" text-anchor="middle" fill="#4F355A" font-size="18">HEALTHCARE</text>
 
-    <rect x="760" y="116" width="240" height="64" rx="32" fill="#F6E5FC" stroke="#D28BE7" stroke-width="2"/>
+    <rect x="760" y="116" width="240" height="64" rx="32" fill="#F1D9F9" stroke="#D28BE7" stroke-width="2"/>
     <text x="880" y="155" text-anchor="middle" fill="#4F355A" font-size="18">ANALYTICS / BI</text>
 
-    <rect x="808" y="328" width="168" height="64" rx="32" fill="#F6E5FC" stroke="#AD63E6" stroke-width="2"/>
+    <rect x="808" y="328" width="168" height="64" rx="32" fill="#F1D9F9" stroke="#AD63E6" stroke-width="2"/>
     <text x="892" y="367" text-anchor="middle" fill="#4F355A" font-size="18">PRODUCT</text>
 
-    <rect x="492" y="84" width="216" height="60" rx="30" fill="#F6E5FC" stroke="#AD63E6" stroke-width="2"/>
+    <rect x="492" y="84" width="216" height="60" rx="30" fill="#F1D9F9" stroke="#AD63E6" stroke-width="2"/>
     <text x="600" y="121" text-anchor="middle" fill="#4F355A" font-size="18">FULL STACK</text>
   </g>
 
@@ -88,6 +88,7 @@
     <circle cx="670" cy="50" r="8" fill="#AD63E6"/><text x="684" y="55">Python / APIs / Streamlit</text>
   </g>
 </svg>
+
 
 
 
