@@ -2,7 +2,7 @@
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=FF6B6B&center=true&vCenter=true&width=600&lines=Data+Scientist+%7C+AI+Engineer+%7C+Healthcare+Specialist;Building+Intelligent+Systems;Turning+Data+Into+Decisiveness)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=FF6B6B&center=true&vCenter=true&width=800&lines=Data+Scientist+%7C+AI+Engineer+%7C+Healthcare+Specialist;Building+Intelligent+Systems;Turning+Data+Into+Decisiveness)](https://git.io/typing-svg)
 
 **Building Intelligent Systems That Drive Real-World Impact** 🚀
 
@@ -19,7 +19,7 @@
 
 ---
 
-📧 **kakarlagana18@gmail.com** | 📱 **+91-6303961797**
+📧 **kakarlagana18@gmail.com**
 
 </div>
 
@@ -52,7 +52,7 @@ I'm a **Data Scientist & AI Engineer** specializing in solving complex healthcar
 
 <div align="center">
 
-### 🚀 **2026 - Active Roles**
+### 🚀 **2026 - Active Role**
 
 ```
 ┌─────────────────────────────────────┐
@@ -60,25 +60,6 @@ I'm a **Data Scientist & AI Engineer** specializing in solving complex healthcar
 │    @ Ethara.AI (Gurugram)           │
 │    Feb 2026 – Present               │
 └─────────────────────────────────────┘
-
-┌─────────────────────────────────────┐
-│ 📊 Data Science Intern              │
-│    @ Unified Mentor                 │
-│    Jan 2026 – Present               │
-└─────────────────────────────────────┘
-
-┌─────────────────────────────────────┐
-│ 🧠 AI Intern                        │
-│    @ Clinchbridge                   │
-│    Jan 2026 – Feb 2026              │
-└─────────────────────────────────────┘
-```
-
-### 🏥 **Healthcare Experience Timeline**
-
-```
-2024 ──► 2025: Cardiovascular Technical Intern (KIMS Hospitals, Srikakulam)
-2023 ──► 2023: Cardiovascular Technical Trainee (KIMS-SUNSHINE, Hyderabad)
 ```
 
 </div>
@@ -144,19 +125,6 @@ I'm a **Data Scientist & AI Engineer** specializing in solving complex healthcar
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 ![Anaconda](https://img.shields.io/badge/Anaconda-44A833?style=for-the-badge&logo=anaconda&logoColor=white)
 
-### 🛠️ MLOps & DevOps
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![CI/CD](https://img.shields.io/badge/CI%2FCD-0078D0?style=for-the-badge)
-![Weights & Biases](https://img.shields.io/badge/W%26B-FFBE00?style=for-the-badge)
-
-### 💻 Development Tools
-![Jupyter](https://img.shields.io/badge/Jupyter-F37726?style=for-the-badge&logo=jupyter&logoColor=white)
-![Google Colab](https://img.shields.io/badge/Google%20Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
-![Anaconda](https://img.shields.io/badge/Anaconda-44A833?style=for-the-badge&logo=anaconda&logoColor=white)
-
 ### 🎨 Design & UX
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 ![Canva](https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white)
@@ -184,7 +152,6 @@ Deep Learning          ██████████████░░░░░
 
 <div align="center">
 
-![Google Advanced Data Analytics](https://img.shields.io/badge/Google%20Advanced%20Data%20Analytics-4285F4?style=for-the-badge&logo=google&logoColor=white)
 ![Google AI Fundamentals](https://img.shields.io/badge/Google%20AI%20Fundamentals-4285F4?style=for-the-badge)
 ![AWS AI Fundamentals](https://img.shields.io/badge/AWS%20AI%20%26%20Cloud-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![IBM AI Fundamentals](https://img.shields.io/badge/IBM%20AI%20Fundamentals-0F62FE?style=for-the-badge&logo=ibm&logoColor=white)
