@@ -1,23 +1,23 @@
-# 👋 Ganapathi Kakarla | Data Scientist & AI Engineer
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,20,30,40,50&height=280&section=header&text=Ganapathi%20Kakarla&fontSize=90&fontAlignY=35&desc=Data%20Scientist%20%7C%20AI%20Engineer%20%7C%20Healthcare%20Specialist&descAlignY=51&descAlign=62&animation=twinkling" width="100%">
+
+# 
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=FF6B6B&center=true&vCenter=true&width=800&lines=Data+Scientist+%7C+AI+Engineer+%7C+Healthcare+Specialist;Building+Intelligent+Systems;Turning+Data+Into+Decisiveness)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=800&color=00D7FF&center=true&vCenter=true&width=900&lines=Building+Intelligent+Systems+That+Drive+Real-World+Impact;Healthcare+%7C+AI%2FML+%7C+Data+Science+%7C+Full-Stack;Turning+Data+Into+Decisiveness)](https://git.io/typing-svg)
 
-**Building Intelligent Systems That Drive Real-World Impact** 🚀
+---
 
 </div>
 
 <div align="center">
 
-### 🔗 Connect With Me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ganapathi-kakarla-ai-data-science)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ganapathi-ai)
-[![Credly](https://img.shields.io/badge/Certifications-00A0DF?style=for-the-badge&logo=credly&logoColor=white)](https://www.credly.com/users/ganapathi-kakarla)
-[![ORCID](https://img.shields.io/badge/ORCID-A6CE39?style=for-the-badge&logo=orcid&logoColor=white)](https://orcid.org/0009-0003-1251-6581)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kakarlagana18@gmail.com)
-
----
+### 🔗 **Let's Connect!**
+[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ganapathi-kakarla-ai-data-science)
+[![GitHub Badge](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ganapathi-ai)
+[![Email Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kakarlagana18@gmail.com)
+[![Credly Badge](https://img.shields.io/badge/Certifications-00A0DF?style=for-the-badge&logo=credly&logoColor=white)](https://www.credly.com/users/ganapathi-kakarla)
+[![ORCID Badge](https://img.shields.io/badge/ORCID-A6CE39?style=for-the-badge&logo=orcid&logoColor=white)](https://orcid.org/0009-0003-1251-6581)
 
 📧 **kakarlagana18@gmail.com**
 
@@ -25,7 +25,9 @@
 
 ---
 
-## 🚀 About Me
+## 🎯 About Me
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Courier+New&size=24&pause=1000&color=00D7FF&center=true&vCenter=true&width=600&lines=Data+Science+Professional;Healthcare+Innovator;AI%2FML+Engineer;Building+Impact" width="100%">
 
 <div align="center">
 
@@ -411,25 +413,39 @@ I'm a **Data Scientist & AI Engineer** specializing in transforming raw data int
 
 ### 📈 **Repository & Contribution Metrics**
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ganapathi-ai&theme=radical&show_icons=true&include_all_commits=true&count_private=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ganapathi-ai&theme=radical&show_icons=true&include_all_commits=true&count_private=true&hide_border=true)
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ganapathi-ai&theme=radical&hide_border=true)
 
 </div>
 
 <div align="center">
 
-### 🔥 **Contribution Streak**
+### 🏆 **Achievements & Milestones**
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ganapathi-ai&theme=radical)
+![Trophy](https://github-profile-trophy.vercel.app/?username=ganapathi-ai&theme=radical&no-frame=true&column=4&row=2)
 
 </div>
 
 <div align="center">
 
-### 📱 **Language Proficiency**
+### 📱 **Top Languages & Technology**
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ganapathi-ai&theme=radical&layout=compact)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ganapathi-ai&theme=radical&layout=compact&hide_border=true&langs_count=10)
 
 </div>
+
+<div align="center">
+
+### 🎯 **Contribution Activity**
+
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=ganapathi-ai&theme=radical&hide_border=true&point=FF6B6B&line=00D7FF&area_color=1a1a2e&area=true)
+
+</div>
+
+<a href="https://github.com/ganapathi-ai">
+  <img src="https://github-contribution-graph-api.asc.ai/graph?username=ganapathi-ai" alt="GitHub Contribution Snake Animation">
+</a>
 
 ---
 
