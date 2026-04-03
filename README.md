@@ -343,51 +343,63 @@ I'm a **Data Scientist & AI Engineer** specializing in transforming raw data int
 
 <div align="center">
 
-### 🏆 **Achievement Gallery**
+### 🏆 **Achievement Gallery - Animated**
 
-```
-╔════════════════════════════════════════════════════════════════════╗
-║  ⭐ 15+ PRODUCTION-GRADE CAPSTONE PROJECTS                        ║
-║  Building real-world solutions. Deployed to healthcare & enterprise║
-╚════════════════════════════════════════════════════════════════════╝
+</div>
 
-╔════════════════════════════════════════════════════════════════════╗
-║  🔬 DEEP CLINICAL EXPERTISE                  [Healthcare Specialist]║
-║  Cardiac Care Technology • Clinical Analytics • Patient Outcomes  ║
-╚════════════════════════════════════════════════════════════════════╝
+<div align="center">
 
-╔════════════════════════════════════════════════════════════════════╗
-║  🤖 ADVANCED AI SPECIALIZATIONS             [AI Engineer]          ║
-║  LLM Post-Training • Generative AI • RAG Systems • Deep Learning  ║
-╚════════════════════════════════════════════════════════════════════╝
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=20&pause=1000&color=FFD700&center=true&vCenter=true&width=700&lines=⭐+15%2B+PRODUCTION-GRADE+CAPSTONE+PROJECTS;Building+real-world+solutions+%26+enterprise+systems)](https://git.io/typing-svg)
 
-╔════════════════════════════════════════════════════════════════════╗
-║  💻 FULL-STACK DEVELOPMENT EXPERTISE        [Senior Developer]     ║
-║  Backend Architecture • Frontend Design • API Engineering         ║
-╚════════════════════════════════════════════════════════════════════╝
+</div>
 
-╔════════════════════════════════════════════════════════════════════╗
-║  📊 BUSINESS INTELLIGENCE MASTERY           [Analytics Expert]     ║
-║  Power BI • Tableau • Dashboard Design • KPI Development         ║
-╚════════════════════════════════════════════════════════════════════╝
+<div align="center">
 
-╔════════════════════════════════════════════════════════════════════╗
-║  🎓 15+ PROFESSIONAL CERTIFICATIONS        [Certified Pro]        ║
-║  AI • ML • Deep Learning • Generative AI • Vector Databases      ║
-╚════════════════════════════════════════════════════════════════════╝
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Roboto+Mono&size=20&pause=1000&color=FF6B6B&center=true&vCenter=true&width=700&lines=🔬+DEEP+CLINICAL+EXPERTISE;Cardiac+Care+%26+Patient+Analytics+Expert)](https://git.io/typing-svg)
 
-╔════════════════════════════════════════════════════════════════════╗
-║  🏫 IIT-TRAINED DEEP LEARNING ENGINEER    [12-week NPTEL Course]  ║
-║  Complex Neural Networks • Computer Vision • Advanced Architectures║
-╚════════════════════════════════════════════════════════════════════╝
+</div>
 
-╔════════════════════════════════════════════════════════════════════╗
-║  🎤 CONFERENCE SPEAKER & VOLUNTEER        [Tech Community Member] ║
-║  Telemedicine Society of India • Digital Health Dissemination     ║
-╚════════════════════════════════════════════════════════════════════╝
-```
+<div align="center">
 
-**15+** Production Grade Systems | **100%** Data-Driven | **∞** Impact
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Courier+Prime&size=20&pause=1000&color=00CED1&center=true&vCenter=true&width=700&lines=🤖+ADVANCED+AI+SPECIALIZATIONS;LLM+Training+%26+Generative+AI+Engineer)](https://git.io/typing-svg)
+
+</div>
+
+<div align="center">
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=IBM+Plex+Mono&size=20&pause=1000&color=32CD32&center=true&vCenter=true&width=700&lines=💻+FULL-STACK+DEVELOPMENT+EXPERTISE;Backend+Architecture+%26+API+Design+Master)](https://git.io/typing-svg)
+
+</div>
+
+<div align="center">
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Source+Code+Pro&size=20&pause=1000&color=9370DB&center=true&vCenter=true&width=700&lines=📊+BUSINESS+INTELLIGENCE+MASTERY;Power+BI+%26+Tableau+Dashboard+Architect)](https://git.io/typing-svg)
+
+</div>
+
+<div align="center">
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&pause=1000&color=FF8C00&center=true&vCenter=true&width=700&lines=🎓+15%2B+PROFESSIONAL+CERTIFICATIONS;AI+%26+Deep+Learning+Certified+Professional)](https://git.io/typing-svg)
+
+</div>
+
+<div align="center">
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Space+Mono&size=20&pause=1000&color=20B2AA&center=true&vCenter=true&width=700&lines=🏫+IIT-TRAINED+DEEP+LEARNING+ENGINEER;12-week+NPTEL+Course+%7C+Neural+Networks+Expert)](https://git.io/typing-svg)
+
+</div>
+
+<div align="center">
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Ubuntu+Mono&size=20&pause=1000&color=FF1493&center=true&vCenter=true&width=700&lines=🎤+CONFERENCE+SPEAKER+%26+VOLUNTEER;Tech+Community+Leader+%7C+Telemedicine+Expert)](https://git.io/typing-svg)
+
+</div>
+
+<div align="center">
+
+---
+
+**✨ Impact Metrics:** 15+ Production Systems | 100% Data-Driven Solutions | ∞ Positive Impact
 
 </div>
 
