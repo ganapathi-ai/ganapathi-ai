@@ -55,6 +55,8 @@ I'm a **Data Scientist & AI Engineer** specializing in transforming raw data int
 
 ## 🎓 Education
 
+<img src="https://readme-typing-svg.herokuapp.com?font=Ubuntu+Mono&size=20&pause=1000&color=FFD700&center=true&vCenter=true&width=600&lines=Academic+Excellence;Building+Strong+Foundations" width="100%">
+
 <div align="center">
 
 ### 📚 **Academic Background**
@@ -169,6 +171,8 @@ I'm a **Data Scientist & AI Engineer** specializing in transforming raw data int
 
 ## 📊 **Skill Proficiency & Expertise Levels**
 
+<img src="https://readme-typing-svg.herokuapp.com?font=IBM+Plex+Mono&size=20&pause=1000&color=32CD32&center=true&vCenter=true&width=600&lines=Professional+Expertise+Matrix;Visual+Skill+Assessment" width="100%">
+
 <div align="center">
 
 | Category | Skill | Proficiency |
@@ -193,6 +197,8 @@ I'm a **Data Scientist & AI Engineer** specializing in transforming raw data int
 ---
 
 ## 🏆 Certifications & Training
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Source+Code+Pro&size=20&pause=1000&color=FF8C00&center=true&vCenter=true&width=700&lines=15%2B+Professional+Credentials;Continuous+Learning+%26+Growth" width="100%">
 
 <div align="center">
 
@@ -231,6 +237,8 @@ I'm a **Data Scientist & AI Engineer** specializing in transforming raw data int
 ---
 
 ## 🌟 Featured Projects & Capstones
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Roboto+Mono&size=22&pause=1000&color=00CED1&center=true&vCenter=true&width=700&lines=15%2B+Production-Grade+Systems;Real-World+Impact+Projects" width="100%">
 
 <div align="center">
 
@@ -317,6 +325,8 @@ I'm a **Data Scientist & AI Engineer** specializing in transforming raw data int
 
 ## 💡 Core Expertise
 
+<img src="https://readme-typing-svg.herokuapp.com?font=Courier+Prime&size=20&pause=1000&color=9370DB&center=true&vCenter=true&width=600&lines=Domain+Specializations;Morphic+Flow+Animation" width="100%">
+
 <div align="center">
 
 ### 🔥 **Domain Specializations - Animated**
@@ -342,6 +352,8 @@ I'm a **Data Scientist & AI Engineer** specializing in transforming raw data int
 ---
 
 ## 🎯 Key Achievements & Milestones
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Space+Mono&size=22&pause=1000&color=FF1493&center=true&vCenter=true&width=700&lines=Achievement+Showcase;Animated+Professional+Gallery" width="100%">
 
 <div align="center">
 
@@ -451,6 +463,8 @@ I'm a **Data Scientist & AI Engineer** specializing in transforming raw data int
 
 ## 🚀 Let's Build Something Amazing!
 
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=20&pause=1000&color=FF6B6B&center=true&vCenter=true&width=700&lines=Collaborative+Innovation;Building+Intelligent+Solutions" width="100%">
+
 <div align="center">
 
 ### 💼 **What I Bring to the Table**
@@ -490,19 +504,21 @@ I'm a **Data Scientist & AI Engineer** specializing in transforming raw data int
 
 ### 🎯 **Ways to Connect & Engage**
 
-**Let's build amazing things together!**
+<img src="https://readme-typing-svg.herokuapp.com?font=Ubuntu+Mono&size=18&pause=1000&color=00D7FF&center=true&vCenter=true&width=600&lines=Let%27s+Build+Amazing+Things+Together" width="100%">
 
 | Platform | Action | Details |
 |----------|--------|---------|
-| 💼 **LinkedIn** | [Connect & Collaborate](https://www.linkedin.com/in/ganapathi-kakarla-ai-data-science) | 1K+ connections, open to opportunities |
-| 📧 **Email** | [Let's Talk](mailto:kakarlagana18@gmail.com?subject=Project%20Collaboration) | Software Engineer, Data Scientist, AI Specialist |
-| 🔬 **ORCID** | [Research Profile](https://orcid.org/0009-0003-1251-6581) | Published research & credentials |
-| 🏆 **Credly** | [View Badges](https://www.credly.com/users/ganapathi-kakarla) | 15+ professional certifications |
-| 💻 **GitHub** | [Follow & Explore](https://github.com/ganapathi-ai) | Open source contributions welcome |
+| 💼 **LinkedIn** | [Connect & Collaborate](https://www.linkedin.com/in/ganapathi-kakarla-ai-data-science) | Open to opportunities |
+| 📧 **Email** | [Let's Talk](mailto:kakarlagana18@gmail.com?subject=Project%20Collaboration) | Data Scientist • AI Engineer |
+| 🔬 **ORCID** | [Research Profile](https://orcid.org/0009-0003-1251-6581) | Research & credentials |
+| 🏆 **Credly** | [View Badges](https://www.credly.com/users/ganapathi-kakarla) | 15+ certifications |
+| 💻 **GitHub** | [Follow & Explore](https://github.com/ganapathi-ai) | Open source ready |
 
 </div>
 
 ---
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,20,40,50&height=200&section=footer&text=Keep+Building%2C+Keep+Growing&fontSize=45&fontAlignY=70" width="100%">
 
 <div align="center">
 
