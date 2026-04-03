@@ -3,21 +3,21 @@
   <desc id="desc">Futuristic hero banner with neural network accents and a balanced profile layout for Ganapathi Kakarla.</desc>
   <defs>
     <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%">
-      <stop offset="0%" stop-color="#FFF3FA"/>
-      <stop offset="45%" stop-color="#E9D8FF"/>
-      <stop offset="100%" stop-color="#E9D8FF"/>
+      <stop offset="0%" stop-color="#FFF6FB"/>
+      <stop offset="45%" stop-color="#F3D8EE"/>
+      <stop offset="100%" stop-color="#F3D8EE"/>
     </linearGradient>
     <linearGradient id="panel" x1="0%" y1="0%" x2="100%" y2="100%">
-      <stop offset="0%" stop-color="#FFF9FD" stop-opacity="0.96"/>
-      <stop offset="100%" stop-color="#FFF9FD" stop-opacity="0.88"/>
+      <stop offset="0%" stop-color="#FFF9FC" stop-opacity="0.96"/>
+      <stop offset="100%" stop-color="#FFF9FC" stop-opacity="0.88"/>
     </linearGradient>
     <linearGradient id="cyan" x1="0%" y1="0%" x2="100%" y2="0%">
-      <stop offset="0%" stop-color="#D864A3"/>
-      <stop offset="100%" stop-color="#C596F2"/>
+      <stop offset="0%" stop-color="#D85C96"/>
+      <stop offset="100%" stop-color="#D9A0E8"/>
     </linearGradient>
     <linearGradient id="mint" x1="0%" y1="0%" x2="100%" y2="0%">
-      <stop offset="0%" stop-color="#A56BE7"/>
-      <stop offset="100%" stop-color="#CFB2F3"/>
+      <stop offset="0%" stop-color="#C56BC0"/>
+      <stop offset="100%" stop-color="#E2B4E4"/>
     </linearGradient>
     <filter id="glow" x="-30%" y="-30%" width="160%" height="160%">
       <feGaussianBlur stdDeviation="7" result="blur"/>
@@ -35,17 +35,17 @@
   <rect width="1200" height="430" rx="34" fill="url(#grid)" opacity="0.52"/>
 
   <g opacity="0.28">
-    <path d="M78 84 L220 146 L320 112 L420 174 L560 96 L702 142 L832 90 L964 126 L1108 86" fill="none" stroke="#D864A3" stroke-width="2"/>
-    <path d="M104 332 L242 262 L384 310 L510 236 L648 302 L812 244 L952 318 L1088 250" fill="none" stroke="#A56BE7" stroke-width="2"/>
-    <circle cx="78" cy="84" r="6" fill="#CFB2F3"/>
-    <circle cx="220" cy="146" r="6" fill="#CFB2F3"/>
-    <circle cx="320" cy="112" r="6" fill="#C596F2"/>
-    <circle cx="420" cy="174" r="6" fill="#CFB2F3"/>
-    <circle cx="560" cy="96" r="6" fill="#D864A3"/>
-    <circle cx="702" cy="142" r="7" fill="#A56BE7"/>
-    <circle cx="832" cy="90" r="6" fill="#CFB2F3"/>
-    <circle cx="964" cy="126" r="6" fill="#C596F2"/>
-    <circle cx="1108" cy="86" r="6" fill="#CFB2F3"/>
+    <path d="M78 84 L220 146 L320 112 L420 174 L560 96 L702 142 L832 90 L964 126 L1108 86" fill="none" stroke="#D85C96" stroke-width="2"/>
+    <path d="M104 332 L242 262 L384 310 L510 236 L648 302 L812 244 L952 318 L1088 250" fill="none" stroke="#C56BC0" stroke-width="2"/>
+    <circle cx="78" cy="84" r="6" fill="#E2B4E4"/>
+    <circle cx="220" cy="146" r="6" fill="#E2B4E4"/>
+    <circle cx="320" cy="112" r="6" fill="#D9A0E8"/>
+    <circle cx="420" cy="174" r="6" fill="#E2B4E4"/>
+    <circle cx="560" cy="96" r="6" fill="#D85C96"/>
+    <circle cx="702" cy="142" r="7" fill="#C56BC0"/>
+    <circle cx="832" cy="90" r="6" fill="#E2B4E4"/>
+    <circle cx="964" cy="126" r="6" fill="#D9A0E8"/>
+    <circle cx="1108" cy="86" r="6" fill="#E2B4E4"/>
   </g>
 
   <g filter="url(#glow)" opacity="0.34">
@@ -53,36 +53,37 @@
     <path d="M142 368 C286 296 358 294 500 214 C632 138 766 132 928 198 C1000 228 1050 230 1118 206" fill="none" stroke="url(#mint)" stroke-width="3" stroke-linecap="round"/>
   </g>
 
-  <rect x="56" y="52" width="1088" height="326" rx="28" fill="url(#panel)" stroke="#A56BE7" stroke-opacity="0.42" stroke-width="1.4"/>
-  <rect x="78" y="74" width="1044" height="282" rx="22" fill="none" stroke="#C596F2" stroke-opacity="0.14"/>
+  <rect x="56" y="52" width="1088" height="326" rx="28" fill="url(#panel)" stroke="#C56BC0" stroke-opacity="0.42" stroke-width="1.4"/>
+  <rect x="78" y="74" width="1044" height="282" rx="22" fill="none" stroke="#D9A0E8" stroke-opacity="0.14"/>
 
   <text x="98" y="156" fill="#4F355A" font-family="Segoe UI, Arial, sans-serif" font-size="56" font-weight="700">Ganapathi Kakarla</text>
-  <text x="98" y="204" fill="#D864A3" font-family="Segoe UI, Arial, sans-serif" font-size="24" font-weight="600">AI Engineer | Data Scientist | Healthcare Specialist</text>
+  <text x="98" y="204" fill="#D85C96" font-family="Segoe UI, Arial, sans-serif" font-size="24" font-weight="600">AI Engineer | Data Scientist | Healthcare Specialist</text>
   <text x="98" y="250" fill="#765F79" font-family="Segoe UI, Arial, sans-serif" font-size="20">Building intelligent systems across healthcare analytics, business intelligence,</text>
   <text x="98" y="280" fill="#765F79" font-family="Segoe UI, Arial, sans-serif" font-size="20">machine learning, and product-driven decision support.</text>
 
   <g transform="translate(98 316)" font-family="Consolas, 'Courier New', monospace" font-size="15">
-    <rect width="168" height="34" rx="17" fill="#F6E7FF" stroke="#D864A3" stroke-opacity="0.58"/>
+    <rect width="168" height="34" rx="17" fill="#FAE3F4" stroke="#D85C96" stroke-opacity="0.58"/>
     <text x="24" y="22" fill="#4F355A">Healthcare AI</text>
-    <rect x="186" width="236" height="34" rx="17" fill="#F6E7FF" stroke="#A56BE7" stroke-opacity="0.58"/>
+    <rect x="186" width="236" height="34" rx="17" fill="#FAE3F4" stroke="#C56BC0" stroke-opacity="0.58"/>
     <text x="204" y="22" fill="#4F355A">Business Intelligence</text>
-    <rect x="440" width="144" height="34" rx="17" fill="#F6E7FF" stroke="#C596F2" stroke-opacity="0.58"/>
+    <rect x="440" width="144" height="34" rx="17" fill="#FAE3F4" stroke="#D9A0E8" stroke-opacity="0.58"/>
     <text x="474" y="22" fill="#4F355A">LLM Systems</text>
   </g>
 
   <g transform="translate(916 214)">
-    <circle r="92" fill="none" stroke="#DABAF4" stroke-width="1.5"/>
+    <circle r="92" fill="none" stroke="#E8C4E9" stroke-width="1.5"/>
     <circle r="68" fill="none" stroke="#B792E4" stroke-width="1.5"/>
-    <circle r="42" fill="#F6E7FF" stroke="#CFB2F3" stroke-width="2"/>
-    <circle cx="-72" cy="-22" r="8" fill="#D864A3"/>
-    <circle cx="78" cy="-8" r="8" fill="#A56BE7"/>
-    <circle cx="-34" cy="74" r="8" fill="#C596F2"/>
-    <circle cx="30" cy="-78" r="8" fill="#CFB2F3"/>
-    <path d="M-72 -22 L0 0 L78 -8" fill="none" stroke="#D864A3" stroke-opacity="0.7"/>
-    <path d="M0 0 L-34 74" fill="none" stroke="#A56BE7" stroke-opacity="0.7"/>
-    <path d="M0 0 L30 -78" fill="none" stroke="#C596F2" stroke-opacity="0.7"/>
+    <circle r="42" fill="#FAE3F4" stroke="#E2B4E4" stroke-width="2"/>
+    <circle cx="-72" cy="-22" r="8" fill="#D85C96"/>
+    <circle cx="78" cy="-8" r="8" fill="#C56BC0"/>
+    <circle cx="-34" cy="74" r="8" fill="#D9A0E8"/>
+    <circle cx="30" cy="-78" r="8" fill="#E2B4E4"/>
+    <path d="M-72 -22 L0 0 L78 -8" fill="none" stroke="#D85C96" stroke-opacity="0.7"/>
+    <path d="M0 0 L-34 74" fill="none" stroke="#C56BC0" stroke-opacity="0.7"/>
+    <path d="M0 0 L30 -78" fill="none" stroke="#D9A0E8" stroke-opacity="0.7"/>
     <text x="-26" y="6" fill="#4F355A" font-family="Consolas, 'Courier New', monospace" font-size="18">AI</text>
   </g>
 </svg>
+
 
 
