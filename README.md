@@ -165,6 +165,31 @@ I'm a **Data Scientist & AI Engineer** specializing in transforming raw data int
 
 ---
 
+## 📊 **Skill Proficiency & Expertise Levels**
+
+<div align="center">
+
+| Category | Skill | Proficiency |
+|----------|-------|-------------|
+| 🏥 **Healthcare** | Clinical Analytics | ███████████████████░ 95% |
+| | Cardiac Care Technology | ██████████████████░░ 90% |
+| 🤖 **AI/ML** | Deep Learning | ███████████████████░ 95% |
+| | Generative AI & LLM | ████████████████░░░░ 85% |
+| | Machine Learning | ███████████████████░ 95% |
+| 📊 **Data Science** | Python Programming | █████████████████░░░ 100% |
+| | Data Visualization | ████████████████░░░░ 80% |
+| | Statistical Analysis | ███████████████████░ 90% |
+| 📈 **Analytics & BI** | Power BI | ████████████████░░░░ 85% |
+| | Tableau | ████████████████░░░░ 80% |
+| 💻 **Development** | Full-Stack Development | █████████████░░░░░░░ 75% |
+| | Backend Engineering | ████████████████░░░░ 80% |
+| 🚀 **DevOps** | Docker & Containerization | ████████████░░░░░░░░ 70% |
+| | CI/CD Pipelines | ███████████░░░░░░░░░ 65% |
+
+</div>
+
+---
+
 ## 🏆 Certifications & Training
 
 <div align="center">
@@ -209,11 +234,13 @@ I'm a **Data Scientist & AI Engineer** specializing in transforming raw data int
 
 ### 🚀 **15+ Production-Grade Systems**
 
-</div>
-
-### 🏥 Healthcare & Clinical Excellence
+*Click to expand each category*
 
 </div>
+
+<details>
+<summary><strong>🏥 Healthcare & Clinical Excellence (8 Projects)</strong></summary>
+<br>
 
 | Project | Description | Tech Stack |
 |---------|-------------|-----------|
@@ -226,11 +253,11 @@ I'm a **Data Scientist & AI Engineer** specializing in transforming raw data int
 | **Prostate Cancer Prediction** | ML regression model for clinical biomarker analysis | Machine Learning • Regression • Healthcare |
 | **Health Insurance Claims Analytics** | Power BI dashboard for claims, provider, and demographic analysis | Power BI • SQL • Financial Analytics |
 
-<div align="center">
+</details>
 
-### 💼 Business & Enterprise Solutions
-
-</div>
+<details>
+<summary><strong>💼 Business & Enterprise Solutions (4 Projects)</strong></summary>
+<br>
 
 | Project | Description | Repository |
 |---------|-------------|-----------|
@@ -239,11 +266,11 @@ I'm a **Data Scientist & AI Engineer** specializing in transforming raw data int
 | **Healthcare Operations Dashboard** | Real-time Power BI hospital KPIs and clinical metrics | [View Repo](https://github.com/ganapathi-ai/Healthcare-Operations-Dashboard--POWER-BI) |
 | **SAARTHI - Rural Healthcare Platform** | MBBS intern recruitment and management system | Custom Web Application |
 
-<div align="center">
+</details>
 
-### 📱 EdTech & Innovation
-
-</div>
+<details>
+<summary><strong>📱 EdTech & Innovation (3 Projects)</strong></summary>
+<br>
 
 | Project | Description | Repository |
 |---------|-------------|-----------|
@@ -262,6 +289,8 @@ I'm a **Data Scientist & AI Engineer** specializing in transforming raw data int
 | **Stock Price Forecasting** | Time series forecasting with Prophet and interactive dashboards |
 | **E-commerce Segmentation** | Customer clustering and product recommendations |
 | **UAC Care Transition Analytics** | Patient journey optimization and outcome tracking |
+
+</details>
 
 ---
 
@@ -310,23 +339,52 @@ I'm a **Data Scientist & AI Engineer** specializing in transforming raw data int
 
 ---
 
-## 🎯 Key Achievements
+## 🎯 Key Achievements & Milestones
 
 <div align="center">
 
-### 🏆 Major Accomplishments
+### 🏆 **Achievement Gallery**
 
 ```
-╔═══════════════════════════════════════╗
-║  ✅ 15+ Capstone & Production Projects  ║
-║  ✅ Deep Clinical Expertise            ║
-║  ✅ Advanced AI Specializations        ║
-║  ✅ Full-Stack Development Expertise   ║
-║  ✅ Healthcare Domain Expert           ║
-║  ✅ Google-Certified Data Analyst      ║
-║  ✅ IIT-Trained in Deep Learning       ║
-║  ✅ Conference & Summit Participation  ║
-╚═══════════════════════════════════════╝
+╔════════════════════════════════════════════════════════════════════╗
+║  ⭐ 15+ PRODUCTION-GRADE CAPSTONE PROJECTS                        ║
+║  Building real-world solutions. Deployed to healthcare & enterprise║
+╚════════════════════════════════════════════════════════════════════╝
+
+╔════════════════════════════════════════════════════════════════════╗
+║  🔬 DEEP CLINICAL EXPERTISE                  [Healthcare Specialist]║
+║  Cardiac Care Technology • Clinical Analytics • Patient Outcomes  ║
+╚════════════════════════════════════════════════════════════════════╝
+
+╔════════════════════════════════════════════════════════════════════╗
+║  🤖 ADVANCED AI SPECIALIZATIONS             [AI Engineer]          ║
+║  LLM Post-Training • Generative AI • RAG Systems • Deep Learning  ║
+╚════════════════════════════════════════════════════════════════════╝
+
+╔════════════════════════════════════════════════════════════════════╗
+║  💻 FULL-STACK DEVELOPMENT EXPERTISE        [Senior Developer]     ║
+║  Backend Architecture • Frontend Design • API Engineering         ║
+╚════════════════════════════════════════════════════════════════════╝
+
+╔════════════════════════════════════════════════════════════════════╗
+║  📊 BUSINESS INTELLIGENCE MASTERY           [Analytics Expert]     ║
+║  Power BI • Tableau • Dashboard Design • KPI Development         ║
+╚════════════════════════════════════════════════════════════════════╝
+
+╔════════════════════════════════════════════════════════════════════╗
+║  🎓 15+ PROFESSIONAL CERTIFICATIONS        [Certified Pro]        ║
+║  AI • ML • Deep Learning • Generative AI • Vector Databases      ║
+╚════════════════════════════════════════════════════════════════════╝
+
+╔════════════════════════════════════════════════════════════════════╗
+║  🏫 IIT-TRAINED DEEP LEARNING ENGINEER    [12-week NPTEL Course]  ║
+║  Complex Neural Networks • Computer Vision • Advanced Architectures║
+╚════════════════════════════════════════════════════════════════════╝
+
+╔════════════════════════════════════════════════════════════════════╗
+║  🎤 CONFERENCE SPEAKER & VOLUNTEER        [Tech Community Member] ║
+║  Telemedicine Society of India • Digital Health Dissemination     ║
+╚════════════════════════════════════════════════════════════════════╝
 ```
 
 **15+** Production Grade Systems | **100%** Data-Driven | **∞** Impact
@@ -335,13 +393,27 @@ I'm a **Data Scientist & AI Engineer** specializing in transforming raw data int
 
 ---
 
-## 📊 GitHub Analytics & Stats
+## 📊 GitHub Analytics & Performance Dashboard
 
 <div align="center">
 
+### 📈 **Repository & Contribution Metrics**
+
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ganapathi-ai&theme=radical&show_icons=true&include_all_commits=true&count_private=true)
 
+</div>
+
+<div align="center">
+
+### 🔥 **Contribution Streak**
+
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ganapathi-ai&theme=radical)
+
+</div>
+
+<div align="center">
+
+### 📱 **Language Proficiency**
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ganapathi-ai&theme=radical&layout=compact)
 
@@ -349,22 +421,38 @@ I'm a **Data Scientist & AI Engineer** specializing in transforming raw data int
 
 ---
 
-## 🚀 Let's Build Together!
+## 🚀 Let's Build Something Amazing!
 
 <div align="center">
 
-### 💼 **What I Can Help With**
+### 💼 **What I Bring to the Table**
 
 ```
-┌─────────────────────┬─────────────────────┐
-│ 🔬 Data Science     │ 📊 Analytics & BI   │
-├─────────────────────┼─────────────────────┤
-│ 💻 Full-Stack Dev   │ 🤖 AI/ML & RAG      │
-└─────────────────────┴─────────────────────┘
-        🏥 Healthcare Technology Solutions
+╔════════════════════════════════════════════════════════════════════╗
+║  Excellence Across Multiple Domains                               ║
+╠════════════════════════════════════════════════════════════════════╣
+║                                                                    ║
+║  🧮 Data Science          📊 Analytics & BI                       ║
+║  Statistical Modeling     Real-time Dashboards                   ║
+║  Forecasting              Business Insights                      ║
+║                                                                    ║
+║  💻 Full-Stack Dev         🤖 AI/ML & Generative AI              ║
+║  Backend systems          LLM Applications                       ║
+║  API Design               Deep Learning Models                   ║
+║                                                                    ║
+║  🏥 Healthcare Tech        🚀 Production Deployment              ║
+║  Clinical Solutions       Cloud Infrastructure                   ║
+║  Patient Analytics        DevOps & CI/CD                         ║
+║                                                                    ║
+╚════════════════════════════════════════════════════════════════════╝
 ```
 
-**Passionate about:** Healthcare Innovation • Data-Driven Decision Making • Intelligent Systems
+### ✨ **I'm Always Open To:**
+- 🤝 Collaborating on innovative AI/ML projects
+- 📚 Teaching & mentoring aspiring data scientists
+- 👨‍⚕️ Building intelligent healthcare solutions
+- 🧠 Contributing to open-source initiatives
+- 🔮 Discussing emerging technologies & trends
 
 </div>
 
@@ -372,11 +460,17 @@ I'm a **Data Scientist & AI Engineer** specializing in transforming raw data int
 
 <div align="center">
 
-### 📨 **Quick Connect**
+### 🎯 **Ways to Connect & Engage**
 
-| 🔗 Profile | 📧 Email | 💼 LinkedIn | 🤝 GitHub |
-|:--:|:--:|:--:|:--:|
-| [![ORCID](https://img.shields.io/badge/ORCID-View-A6CE39?style=for-the-badge&logo=orcid)](https://orcid.org/0009-0003-1251-6581) | [![Gmail](https://img.shields.io/badge/Gmail-Send-D14836?style=for-the-badge&logo=gmail)](mailto:kakarlagana18@gmail.com) | [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/ganapathi-kakarla-ai-data-science) | [![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github)](https://github.com/ganapathi-ai) |
+**Let's build amazing things together!**
+
+| Platform | Action | Details |
+|----------|--------|---------|
+| 💼 **LinkedIn** | [Connect & Collaborate](https://www.linkedin.com/in/ganapathi-kakarla-ai-data-science) | 1K+ connections, open to opportunities |
+| 📧 **Email** | [Let's Talk](mailto:kakarlagana18@gmail.com?subject=Project%20Collaboration) | Software Engineer, Data Scientist, AI Specialist |
+| 🔬 **ORCID** | [Research Profile](https://orcid.org/0009-0003-1251-6581) | Published research & credentials |
+| 🏆 **Credly** | [View Badges](https://www.credly.com/users/ganapathi-kakarla) | 15+ professional certifications |
+| 💻 **GitHub** | [Follow & Explore](https://github.com/ganapathi-ai) | Open source contributions welcome |
 
 </div>
 
@@ -384,28 +478,35 @@ I'm a **Data Scientist & AI Engineer** specializing in transforming raw data int
 
 <div align="center">
 
-### 🌟 **Thank You for Visiting!**
+### 🌟 **Final Thoughts**
 
-*Turning data into actionable insights, one algorithm at a time*
+```
+╔══════════════════════════════════════════════════════════════════════╗
+║                                                                      ║
+║  Thank you for visiting my profile! I'm excited about opportunities ║
+║  to leverage AI, data science, and healthcare technology to solve   ║
+║  real-world problems and create lasting impact.                     ║
+║                                                                      ║
+║  Whether you're looking for a data scientist, AI engineer,          ║
+║  healthcare technologist, or technical collaborator — let's talk!   ║
+║                                                                      ║
+║              "Code • Data • Impact • Healthcare Excellence"          ║
+║                                                                      ║
+╚══════════════════════════════════════════════════════════════════════╝
+```
 
 ---
+
+**📊 Profile Analytics**
 
 ![Profile Views](https://komarev.com/ghpvc/?username=ganapathi-ai&color=FF6B6B&style=flat-square)
-
-**Made with ❤️ by Ganapathi Kakarla**
-
 ![Status](https://img.shields.io/badge/Status-🟢%20Open%20to%20Opportunities-success?style=flat-square)
 ![Last Update](https://img.shields.io/badge/Last%20Updated-April%202026-blue?style=flat-square)
 
-```
-╔═══════════════════════════════════════════════╗
-║  "Innovation is the outcome of intelligent    ║
-║   analysis applied to complex problems"       ║
-╚═══════════════════════════════════════════════╝
-```
+**Made with ❤️ by Ganapathi Kakarla** | *Turning data into decisiveness, one algorithm at a time*
 
 ---
 
-**⭐ If you find this profile useful, consider starring it!**
+**⭐ Found this profile helpful? Consider leaving a star!** ⭐
 
 </div>
