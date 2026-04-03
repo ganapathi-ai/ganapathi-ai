@@ -288,19 +288,28 @@ I'm a **Data Scientist & AI Engineer** specializing in transforming raw data int
 
 <div align="center">
 
-### 🔥 **Domain Specializations**
+### 🔥 **Domain Specializations - Running Board**
 
 ```
-┌──────────────────────────────────────────────────────────────┐
-│ 🏥 HEALTHCARE        Clinical Analytics • Patient Outcomes  │
-│ 📊 ANALYTICS         BI • Data Visualization • Dashboards   │
-│ 💰 BUSINESS          Revenue Optimization • Financial Models│
-│ 🚚 OPERATIONS        Supply Chain • Process Optimization    │
-│ 🤖 AI & ML           Predictive • NLP • Deep Learning • RAG │
-│ 💻 DEVELOPMENT       Full-Stack • Backend • API Design      │
-│ 📈 DATA SCIENCE      Statistical Analysis • Forecasting    │
-│ 🔍 DATA ANNOTATION   Image Captioning • Video Analysis      │
-└──────────────────────────────────────────────────────────────┘
+╔════════════════════════════════════════════════════════════════════════╗
+║  🏥 HEALTHCARE → Clinical Analytics • Patient Outcomes              ║
+║─────────────────────────────────────────────────────────────────────────║
+║  📊 ANALYTICS → BI • Data Visualization • Dashboards               ║
+║─────────────────────────────────────────────────────────────────────────║
+║  💰 BUSINESS → Revenue Optimization • Financial Models             ║
+║─────────────────────────────────────────────────────────────────────────║
+║  🚚 OPERATIONS → Supply Chain • Process Optimization               ║
+║─────────────────────────────────────────────────────────────────────────║
+║  🤖 AI & ML → Predictive • NLP • Deep Learning • RAG              ║
+║─────────────────────────────────────────────────────────────────────────║
+║  💻 DEVELOPMENT → Full-Stack • Backend • API Design               ║
+║─────────────────────────────────────────────────────────────────────────║
+║  📈 DATA SCIENCE → Statistical Analysis • Forecasting             ║
+║─────────────────────────────────────────────────────────────────────────║
+║  🔍 DATA ANNOTATION → Image Captioning • Video Analysis           ║
+╚════════════════════════════════════════════════════════════════════════╝
+
+         ▶ Continuously Expanding Expertise ◀
 ```
 
 </div>
