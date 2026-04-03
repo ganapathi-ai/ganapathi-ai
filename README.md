@@ -288,45 +288,23 @@ I'm a **Data Scientist & AI Engineer** specializing in transforming raw data int
 
 <div align="center">
 
-### 🔥 **Domain Specializations - Morphic Flow**
+### 🔥 **Domain Specializations - Animated**
 
-```
-          ◆ ◇ ◆ ◇ ◆ ◇ ◆ ◇ ◆ ◇ ◆ ◇ ◆ ◇ ◆
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=18&pause=800&color=3498DB&center=true&vCenter=true&width=650&lines=🏥+Healthcare:+Clinical+Analytics+%26+Patient+Outcomes)](https://git.io/typing-svg)
 
-  🏥 HEALTHCARE
-     ↓ Clinical Analytics • Patient Outcomes
-     ◈════════════════════════════════════════◈
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Roboto+Mono&size=18&pause=800&color=27AE60&center=true&vCenter=true&width=650&lines=📊+Analytics:+BI+%26+Data+Visualization+%26+Dashboards)](https://git.io/typing-svg)
 
-  📊 ANALYTICS  
-     ↓ BI • Data Visualization • Dashboards
-     ◈════════════════════════════════════════◈
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Courier+Prime&size=18&pause=800&color=F39C12&center=true&vCenter=true&width=650&lines=💰+Business:+Revenue+Optimization+%26+Financial+Models)](https://git.io/typing-svg)
 
-  💰 BUSINESS
-     ↓ Revenue Optimization • Financial Models
-     ◈════════════════════════════════════════◈
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=IBM+Plex+Mono&size=18&pause=800&color=9B59B6&center=true&vCenter=true&width=650&lines=🚚+Operations:+Supply+Chain+%26+Process+Optimization)](https://git.io/typing-svg)
 
-  🚚 OPERATIONS
-     ↓ Supply Chain • Process Optimization
-     ◈════════════════════════════════════════◈
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Source+Code+Pro&size=18&pause=800&color=00CED1&center=true&vCenter=true&width=650&lines=🤖+AI+%26+ML:+Predictive+%26+NLP+%26+Deep+Learning+%26+RAG)](https://git.io/typing-svg)
 
-  🤖 AI & ML
-     ↓ Predictive • NLP • Deep Learning • RAG
-     ◈════════════════════════════════════════◈
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&pause=800&color=E74C3C&center=true&vCenter=true&width=650&lines=💻+Development:+Full-Stack+%26+Backend+%26+API+Design)](https://git.io/typing-svg)
 
-  💻 DEVELOPMENT
-     ↓ Full-Stack • Backend • API Design
-     ◈════════════════════════════════════════◈
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Space+Mono&size=18&pause=800&color=16A085&center=true&vCenter=true&width=650&lines=📈+Data+Science:+Statistical+Analysis+%26+Forecasting)](https://git.io/typing-svg)
 
-  📈 DATA SCIENCE
-     ↓ Statistical Analysis • Forecasting
-     ◈════════════════════════════════════════◈
-
-  🔍 DATA ANNOTATION
-     ↓ Image Captioning • Video Analysis
-     ◈════════════════════════════════════════◈
-
-          ◆ ◇ ◆ ◇ ◆ ◇ ◆ ◇ ◆ ◇ ◆ ◇ ◆ ◇ ◆
-```
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Ubuntu+Mono&size=18&pause=800&color=D946A6&center=true&vCenter=true&width=650&lines=🔍+Data+Annotation:+Image+Captioning+%26+Video+Analysis)](https://git.io/typing-svg)
 
 </div>
 
