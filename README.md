@@ -45,7 +45,7 @@ I'm a **Data Scientist & AI Engineer** specializing in solving complex healthcar
 
 ### 🚀 Active Roles
 - **LLM Post Training Intern** @ Ethara.AI (Gurugram) - *Feb 2026 – Present*
-- 
+
 ### 🏥 Healthcare Experience
 - **Cardiovascular Technical Intern** @ KIMS HOSPITALS, Srikakulam - *April 2024 – April 2025*
 - **Cardiovascular Technical Trainee** @ KIMS-SUNSHINE HOSPITALS, Hyderabad - *Oct 2023 – Dec 2023*
@@ -123,7 +123,7 @@ I'm a **Data Scientist & AI Engineer** specializing in solving complex healthcar
 
 <div align="center">
 
-![Google Advanced Data Analytics](https://img.shields.io/badge/Google%20Advanced%20Data%20Analytics-4285F4?style=for-the-badge&logo=google&logoColor=white)
+
 ![Google AI Fundamentals](https://img.shields.io/badge/Google%20AI%20Fundamentals-4285F4?style=for-the-badge)
 ![AWS AI Fundamentals](https://img.shields.io/badge/AWS%20AI%20%26%20Cloud-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![IBM AI Fundamentals](https://img.shields.io/badge/IBM%20AI%20Fundamentals-0F62FE?style=for-the-badge&logo=ibm&logoColor=white)
@@ -243,8 +243,6 @@ I'm a **Data Scientist & AI Engineer** specializing in solving complex healthcar
 ✅ **Full-Stack Development** - End-to-end systems from concept to deployment
 
 ✅ **Healthcare Domain Expert** - Clinical trials, patient outcomes, operations
-
-✅ **Google-Certified Data Analyst** - Advanced data analytics professional certification
 
 ✅ **IIT-Trained in Deep Learning** - 12-week NPTEL course completion
 
