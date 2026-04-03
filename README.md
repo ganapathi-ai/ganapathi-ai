@@ -27,17 +27,37 @@
 
 ## 🚀 About Me
 
-**Technical professional focused on applying data analysis, machine learning, and business intelligence to support strategic decisions and AI innovation.**
+<div align="center">
 
-I'm a **Data Scientist & AI Engineer** specializing in solving complex healthcare and business challenges through data-driven solutions. With a background in Cardiac Care Technology and currently pursuing a **PGDM in AI & Data Science (Healthcare)** from IIHMR Bangalore, I build **intelligent systems** that transform raw data into actionable insights.
+```
+╔═════════════════════════════════════════════════════════╗
+║  🎯 Data-Driven Problem Solver                         ║
+║  💡 Healthcare Technology Innovator                     ║
+║  🤖 AI/ML & Generative AI Specialist                    ║
+║  📊 Business Intelligence & Analytics Expert           ║
+║  🔬 Building Intelligent Systems for Impact             ║
+╚═════════════════════════════════════════════════════════╝
+```
 
-**Expertise Areas:** Healthcare Analytics • AI/ML • Business Intelligence • Data Science • Deep Learning • Generative AI • RAG Systems
+**Technical professional** focused on applying data analysis, machine learning, and business intelligence to solve complex healthcare and business challenges.
+
+I'm a **Data Scientist & AI Engineer** specializing in transforming raw data into actionable insights. With a background in **Cardiac Care Technology** and a **PGDM in AI & Data Science (Healthcare)** from IIHMR Bangalore, I build **intelligent systems** that drive real-world impact.
+
+**Expertise:** Healthcare Analytics • AI/ML • Business Intelligence • Data Science • Deep Learning • Generative AI • RAG Systems
 
 > 💡 **Philosophy:** *Turning data into decisiveness, one algorithm at a time.*
+
+</div>
 
 ---
 
 ## 🎓 Education
+
+<div align="center">
+
+### 📚 **Academic Background**
+
+</div>
 
 | Degree | Institution | Status | Performance |
 |--------|-------------|--------|-------------|
@@ -48,27 +68,13 @@ I'm a **Data Scientist & AI Engineer** specializing in solving complex healthcar
 
 ---
 
-## 💼 Current Internships & Experience
-
-<div align="center">
-
-### 🚀 **2026 - Active Role**
-
-```
-┌─────────────────────────────────────┐
-│ 🤖 LLM Post Training Intern         │
-│    @ Ethara.AI (Gurugram)           │
-│    Feb 2026 – Present               │
-└─────────────────────────────────────┘
-```
-
-</div>
-
----
-
 ## 🛠️ Tech Stack & Skills
 
 <div align="center">
+
+### ⚡ **50+ Technologies & Tools**
+
+
 
 ### 🐍 Programming Languages
 ![Python](https://img.shields.io/badge/Python-3776ab?style=for-the-badge&logo=python&logoColor=white)
@@ -133,30 +139,27 @@ I'm a **Data Scientist & AI Engineer** specializing in solving complex healthcar
 
 ---
 
-## 📈 **Skills Proficiency Matrix**
-
-```
-Healthcare Analytics    ████████████████████ 100%
-Data Science           ███████████████████░ 95%
-Machine Learning       ███████████████████░ 95%
-Python Programming     ████████████████████ 100%
-Power BI & Analytics   ███████████████░░░░░ 85%
-Full-Stack Dev         ██████████████░░░░░░ 75%
-Gen AI & LLM           ███████████████░░░░░ 80%
-Deep Learning          ██████████████░░░░░░ 75%
-```
-
----
-
 ## 🏆 Certifications & Training
 
 <div align="center">
+
+### 🎓 **Professional Certifications & Credentials**
 
 ![Google AI Fundamentals](https://img.shields.io/badge/Google%20AI%20Fundamentals-4285F4?style=for-the-badge)
 ![AWS AI Fundamentals](https://img.shields.io/badge/AWS%20AI%20%26%20Cloud-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![IBM AI Fundamentals](https://img.shields.io/badge/IBM%20AI%20Fundamentals-0F62FE?style=for-the-badge&logo=ibm&logoColor=white)
 
-**Deep Learning (IIT Ropar)** • **DeepLearning.AI & Stanford** • **IBM - RAG & Vector Databases** • **IBM - Multimodal Gen AI** • **Google - AI Tools Productivity** • **IBM - Gen AI Applications** • **ADiRA - AI for Digital Readiness**
+```
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+  🎖️ Deep Learning (IIT Ropar)
+  🎖️ DeepLearning.AI & Stanford University
+  🎖️ IBM - RAG & Vector Databases
+  🎖️ IBM - Multimodal Generative AI
+  🎖️ Google - AI Tools & Productivity
+  🎖️ IBM - Generative AI Applications
+  🎖️ ADiRA - AI for Digital Readiness
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+```
 
 </div>
 
@@ -165,6 +168,10 @@ Deep Learning          ██████████████░░░░░
 ## 🌟 Featured Projects & Capstones
 
 <div align="center">
+
+### 🚀 **15+ Production-Grade Systems**
+
+</div>
 
 ### 🏥 Healthcare & Clinical Excellence
 
@@ -243,16 +250,20 @@ Deep Learning          ██████████████░░░░░
 
 <div align="center">
 
-| Domain | Specialization |
-|--------|---|
-| 🏥 **Healthcare** | Clinical Analytics • Patient Outcomes • Operations Optimization • Healthcare AI |
-| 📊 **Analytics** | Business Intelligence • Data Visualization • KPI Development • Dashboard Design |
-| 💰 **Business** | Revenue Optimization • Product Analysis • Financial Modeling • Cost Reduction |
-| 🚚 **Operations** | Supply Chain • Logistics • Process Optimization • Workflow Automation |
-| 🤖 **AI & ML** | Predictive Analytics • NLP • Machine Learning • Deep Learning • RAG Systems |
-| 💻 **Development** | Full-Stack • Backend • Frontend • API Design • Web Applications |
-| 📈 **Data Science** | Statistical Analysis • Data Mining • Insights Generation • Forecasting |
-| 🔍 **Data Annotation** | Image Captioning • Image Masking • Video Analysis • Data Labeling |
+### 🔥 **Domain Specializations**
+
+```
+┌──────────────────────────────────────────────────────────────┐
+│ 🏥 HEALTHCARE        Clinical Analytics • Patient Outcomes  │
+│ 📊 ANALYTICS         BI • Data Visualization • Dashboards   │
+│ 💰 BUSINESS          Revenue Optimization • Financial Models│
+│ 🚚 OPERATIONS        Supply Chain • Process Optimization    │
+│ 🤖 AI & ML           Predictive • NLP • Deep Learning • RAG │
+│ 💻 DEVELOPMENT       Full-Stack • Backend • API Design      │
+│ 📈 DATA SCIENCE      Statistical Analysis • Forecasting    │
+│ 🔍 DATA ANNOTATION   Image Captioning • Video Analysis      │
+└──────────────────────────────────────────────────────────────┘
+```
 
 </div>
 
