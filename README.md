@@ -12,7 +12,7 @@
 [![ORCID](https://img.shields.io/badge/ORCID-A6CE39?style=for-the-badge&logo=orcid&logoColor=white)](https://orcid.org/0009-0003-1251-6581)
 
 ### 📞 Get In Touch
-📧 **kakarlagana18@gmail.com** | 📱 **+91-6303961797**
+📧 **kakarlagana18@gmail.com** 
 
 </div>
 
@@ -285,7 +285,7 @@ I'm passionate about **healthcare innovation**, **data-driven decision making**,
 [![Credly](https://img.shields.io/badge/Certifications-View-00A0DF?style=for-the-badge)](https://www.credly.com/users/ganapathi-kakarla)
 [![ORCID](https://img.shields.io/badge/ORCID-Profile-A6CE39?style=for-the-badge&logo=orcid)](https://orcid.org/0009-0003-1251-6581)
 
-**📧 Email:** kakarlagana18@gmail.com | **📱 Phone:** +91-6303961797
+**📧 Email:** kakarlagana18@gmail.com 
 
 </div>
 
