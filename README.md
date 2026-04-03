@@ -68,6 +68,32 @@ I'm a **Data Scientist & AI Engineer** specializing in transforming raw data int
 
 ---
 
+## 💼 Current Experience
+
+<div align="center">
+
+### 🚀 **Active Roles & Internships**
+
+```
+┌─────────────────────────────────────┐
+│ 🤖 LLM Post Training Intern         │
+│    @ Ethara.AI (Gurugram)           │
+│    Feb 2026 – Present               │
+└─────────────────────────────────────┘
+```
+
+### 🏥 **Healthcare Experience**
+
+```
+┌─────────────────────────────────────┐
+│ 🫀 Cardiovascular Technical Intern   │
+│    @ KIMS Hospitals (Srikakulam)    │
+│    2024 – 2025                      │
+└─────────────────────────────────────┘
+```
+
+</div>
+
 ## 🛠️ Tech Stack & Skills
 
 <div align="center">
@@ -143,23 +169,35 @@ I'm a **Data Scientist & AI Engineer** specializing in transforming raw data int
 
 <div align="center">
 
-### 🎓 **Professional Certifications & Credentials**
+### 🎓 **Professional Certifications & Credentials (15+)**
 
-![Google AI Fundamentals](https://img.shields.io/badge/Google%20AI%20Fundamentals-4285F4?style=for-the-badge)
-![AWS AI Fundamentals](https://img.shields.io/badge/AWS%20AI%20%26%20Cloud-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![IBM AI Fundamentals](https://img.shields.io/badge/IBM%20AI%20Fundamentals-0F62FE?style=for-the-badge&logo=ibm&logoColor=white)
+</div>
 
-```
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-  🎖️ Deep Learning (IIT Ropar)
-  🎖️ DeepLearning.AI & Stanford University
-  🎖️ IBM - RAG & Vector Databases
-  🎖️ IBM - Multimodal Generative AI
-  🎖️ Google - AI Tools & Productivity
-  🎖️ IBM - Generative AI Applications
-  🎖️ ADiRA - AI for Digital Readiness
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-```
+#### 🎖️ **AI & Deep Learning**
+- **AI for Digital Readiness & Advancement (ADiRA)** - Comprehensive AI training program
+- **Deep Learning (IIT Ropar)** - 12-week Deep Learning course via NPTEL
+- **Fundamentals of Building AI Agents** - IBM
+
+#### 🌐 **Cloud & General AI**
+- **AI Fundamentals & the Cloud** - AWS
+- **Introduction to AI** - Google
+
+#### 🤖 **Machine Learning & Advanced Topics**
+- **Supervised Machine Learning: Regression & Classification** - DeepLearning.AI & Stanford University
+- **Advanced RAG with Vector Databases & Retrievers** - IBM
+- **Vector Databases for RAG: An Introduction** - IBM
+
+#### 🎯 **Generative AI**
+- **Build Multimodal Generative AI Applications** - IBM
+- **Develop Generative AI Applications: Get started** - IBM
+- **Build RAG Applications: Get started** - IBM
+
+#### 💼 **Productivity & Tools**
+- **Maximize Productivity With AI Tools** - Google
+
+<div align="center">
+
+![Certifications](https://img.shields.io/badge/15+%20Professional%20Certifications-Completed-success?style=for-the-badge)
 
 </div>
 
