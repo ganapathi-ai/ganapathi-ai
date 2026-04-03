@@ -1,10 +1,10 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 500" role="img" aria-labelledby="title desc">
+﻿<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 500" role="img" aria-labelledby="title desc">
   <title id="title">Timeline system</title>
   <desc id="desc">Two-track timeline showing education and experience milestones.</desc>
   <defs>
     <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%">
-      <stop offset="0%" stop-color="#FFF4FB"/>
-      <stop offset="100%" stop-color="#F6E8FF"/>
+      <stop offset="0%" stop-color="#F4EEFF"/>
+      <stop offset="100%" stop-color="#E2D3FF"/>
     </linearGradient>
     <linearGradient id="edu" x1="0%" y1="0%" x2="100%" y2="0%">
       <stop offset="0%" stop-color="#f4c397"/>
@@ -16,7 +16,7 @@
     </linearGradient>
   </defs>
   <rect width="1200" height="500" rx="28" fill="url(#bg)"/>
-  <rect x="28" y="28" width="1144" height="444" rx="24" fill="#FFF9FC" fill-opacity="0.82" stroke="#e97a2d" stroke-opacity="0.35"/>
+  <rect x="28" y="28" width="1144" height="444" rx="24" fill="#FAF7FF" fill-opacity="0.82" stroke="#e97a2d" stroke-opacity="0.35"/>
 
   <text x="88" y="110" fill="#e97a2d" font-family="Consolas, 'Courier New', monospace" font-size="17">EDUCATION TRACK</text>
   <path d="M88 138 H1112" stroke="url(#edu)" stroke-width="3" stroke-linecap="round"/>
@@ -90,3 +90,4 @@
     <text x="-30" y="90" fill="#8E6D8D" font-family="Segoe UI, Arial, sans-serif" font-size="13">Ethara.AI</text>
   </g>
 </svg>
+

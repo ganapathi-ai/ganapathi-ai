@@ -1,14 +1,14 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 300" role="img" aria-labelledby="title desc">
+﻿<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 300" role="img" aria-labelledby="title desc">
   <title id="title">Closing terminal panel</title>
   <desc id="desc">Terminal style closing panel with a short philosophy statement.</desc>
   <defs>
     <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%">
-      <stop offset="0%" stop-color="#FFF4FB"/>
-      <stop offset="100%" stop-color="#F6E8FF"/>
+      <stop offset="0%" stop-color="#F4EEFF"/>
+      <stop offset="100%" stop-color="#E2D3FF"/>
     </linearGradient>
   </defs>
   <rect width="1200" height="300" rx="28" fill="url(#bg)"/>
-  <rect x="70" y="48" width="1060" height="204" rx="20" fill="#FFF6FB" stroke="#e33d82" stroke-opacity="0.4"/>
+  <rect x="70" y="48" width="1060" height="204" rx="20" fill="#F7F2FF" stroke="#e33d82" stroke-opacity="0.4"/>
   <circle cx="106" cy="74" r="6" fill="#e33d82"/>
   <circle cx="128" cy="74" r="6" fill="#e97a2d"/>
   <circle cx="150" cy="74" r="6" fill="#b692d9"/>
@@ -17,3 +17,4 @@
   <text x="100" y="168" fill="#4F355A" font-family="Consolas, 'Courier New', monospace" font-size="28">&gt; Turning data into decisiveness, one system at a time.</text>
   <text x="100" y="208" fill="#765F79" font-family="Consolas, 'Courier New', monospace" font-size="20">&gt; Open to healthcare AI, analytics, product intelligence, and meaningful collaboration _</text>
 </svg>
+
