@@ -2,16 +2,23 @@
 
 <div align="center">
 
-![Profile Banner](https://img.shields.io/badge/Data%20Scientist%20%7C%20AI%20Engineer%20%7C%20Healthcare%20Specialist-FF6B6B?style=for-the-badge)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=FF6B6B&center=true&vCenter=true&width=600&lines=Data+Scientist+%7C+AI+Engineer+%7C+Healthcare+Specialist;Building+Intelligent+Systems;Turning+Data+Into+Decisiveness)](https://git.io/typing-svg)
 
-**Building Intelligent Systems That Drive Real-World Impact**
+**Building Intelligent Systems That Drive Real-World Impact** 🚀
 
+</div>
+
+<div align="center">
+
+### 🔗 Connect With Me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ganapathi-kakarla-ai-data-science)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ganapathi-ai)
 [![Credly](https://img.shields.io/badge/Certifications-00A0DF?style=for-the-badge&logo=credly&logoColor=white)](https://www.credly.com/users/ganapathi-kakarla)
 [![ORCID](https://img.shields.io/badge/ORCID-A6CE39?style=for-the-badge&logo=orcid&logoColor=white)](https://orcid.org/0009-0003-1251-6581)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kakarlagana18@gmail.com)
 
-### 📞 Get In Touch
+---
+
 📧 **kakarlagana18@gmail.com** | 📱 **+91-6303961797**
 
 </div>
@@ -43,14 +50,38 @@ I'm a **Data Scientist & AI Engineer** specializing in solving complex healthcar
 
 ## 💼 Current Internships & Experience
 
-### 🚀 Active Roles
-- **LLM Post Training Intern** @ Ethara.AI (Gurugram) - *Feb 2026 – Present*
-- **Data Science Intern** @ Unified Mentor - *Jan 2026 – Present*
-- **AI Intern** @ Clinchbridge - *Jan 2026 – Feb 2026*
+<div align="center">
 
-### 🏥 Healthcare Experience
-- **Cardiovascular Technical Intern** @ KIMS HOSPITALS, Srikakulam - *April 2024 – April 2025*
-- **Cardiovascular Technical Trainee** @ KIMS-SUNSHINE HOSPITALS, Hyderabad - *Oct 2023 – Dec 2023*
+### 🚀 **2026 - Active Roles**
+
+```
+┌─────────────────────────────────────┐
+│ 🤖 LLM Post Training Intern         │
+│    @ Ethara.AI (Gurugram)           │
+│    Feb 2026 – Present               │
+└─────────────────────────────────────┘
+
+┌─────────────────────────────────────┐
+│ 📊 Data Science Intern              │
+│    @ Unified Mentor                 │
+│    Jan 2026 – Present               │
+└─────────────────────────────────────┘
+
+┌─────────────────────────────────────┐
+│ 🧠 AI Intern                        │
+│    @ Clinchbridge                   │
+│    Jan 2026 – Feb 2026              │
+└─────────────────────────────────────┘
+```
+
+### 🏥 **Healthcare Experience Timeline**
+
+```
+2024 ──► 2025: Cardiovascular Technical Intern (KIMS Hospitals, Srikakulam)
+2023 ──► 2023: Cardiovascular Technical Trainee (KIMS-SUNSHINE, Hyderabad)
+```
+
+</div>
 
 ---
 
@@ -113,11 +144,39 @@ I'm a **Data Scientist & AI Engineer** specializing in solving complex healthcar
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 ![Anaconda](https://img.shields.io/badge/Anaconda-44A833?style=for-the-badge&logo=anaconda&logoColor=white)
 
+### 🛠️ MLOps & DevOps
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![CI/CD](https://img.shields.io/badge/CI%2FCD-0078D0?style=for-the-badge)
+![Weights & Biases](https://img.shields.io/badge/W%26B-FFBE00?style=for-the-badge)
+
+### 💻 Development Tools
+![Jupyter](https://img.shields.io/badge/Jupyter-F37726?style=for-the-badge&logo=jupyter&logoColor=white)
+![Google Colab](https://img.shields.io/badge/Google%20Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+![Anaconda](https://img.shields.io/badge/Anaconda-44A833?style=for-the-badge&logo=anaconda&logoColor=white)
+
 ### 🎨 Design & UX
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 ![Canva](https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white)
 
 </div>
+
+---
+
+## 📈 **Skills Proficiency Matrix**
+
+```
+Healthcare Analytics    ████████████████████ 100%
+Data Science           ███████████████████░ 95%
+Machine Learning       ███████████████████░ 95%
+Python Programming     ████████████████████ 100%
+Power BI & Analytics   ███████████████░░░░░ 85%
+Full-Stack Dev         ██████████████░░░░░░ 75%
+Gen AI & LLM           ███████████████░░░░░ 80%
+Deep Learning          ██████████████░░░░░░ 75%
+```
 
 ---
 
@@ -236,58 +295,57 @@ I'm a **Data Scientist & AI Engineer** specializing in solving complex healthcar
 
 <div align="center">
 
-✅ **15+ Capstone & Production Projects** - Healthcare, Business, and AI systems
+### 🏆 Major Accomplishments
 
-✅ **Deep Clinical Expertise** - Cardiovascular technology combined with data science
+```
+╔═══════════════════════════════════════╗
+║  ✅ 15+ Capstone & Production Projects  ║
+║  ✅ Deep Clinical Expertise            ║
+║  ✅ Advanced AI Specializations        ║
+║  ✅ Full-Stack Development Expertise   ║
+║  ✅ Healthcare Domain Expert           ║
+║  ✅ Google-Certified Data Analyst      ║
+║  ✅ IIT-Trained in Deep Learning       ║
+║  ✅ Conference & Summit Participation  ║
+╚═══════════════════════════════════════╝
+```
 
-✅ **Advanced AI Specializations** - LLM, RAG, Vector Databases, Generative AI
-
-✅ **Full-Stack Development** - End-to-end systems from concept to deployment
-
-✅ **Healthcare Domain Expert** - Clinical trials, patient outcomes, operations
-
-✅ **Google-Certified Data Analyst** - Advanced data analytics professional certification
-
-✅ **IIT-Trained in Deep Learning** - 12-week NPTEL course completion
-
-✅ **Multiple Conference & Summit Participation** - Active in professional development
-
-</div>
-
----
-
-## 📊 GitHub Analytics
-
-<div align="center">
-
-![Profile Views](https://komarev.com/ghpvc/?username=ganapathi-ai&color=blue&style=flat-square)
+**15+** Production Grade Systems | **100%** Data-Driven | **∞** Impact
 
 </div>
 
 ---
 
-## 🤝 Let's Collaborate!
-
-I'm passionate about **healthcare innovation**, **data-driven decision making**, and **intelligent systems**. Whether you're looking for:
-
-- 🔬 Data Science Solutions & Consulting
-- 📊 Analytics & Business Intelligence  
-- 💻 Full-Stack Development
-- 🤖 AI/ML Implementation & RAG Systems
-- 🏥 Healthcare Technology
-
-**I'd love to connect and build something impactful together!**
+## 📊 GitHub Analytics & Stats
 
 <div align="center">
 
-### 📨 Get In Touch
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ganapathi-ai&theme=radical&show_icons=true&include_all_commits=true&count_private=true)
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/ganapathi-kakarla-ai-data-science)
-[![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github)](https://github.com/ganapathi-ai)
-[![Credly](https://img.shields.io/badge/Certifications-View-00A0DF?style=for-the-badge)](https://www.credly.com/users/ganapathi-kakarla)
-[![ORCID](https://img.shields.io/badge/ORCID-Profile-A6CE39?style=for-the-badge&logo=orcid)](https://orcid.org/0009-0003-1251-6581)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ganapathi-ai&theme=radical)
 
-**📧 Email:** kakarlagana18@gmail.com | **📱 Phone:** +91-6303961797
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ganapathi-ai&theme=radical&layout=compact)
+
+</div>
+
+---
+
+## 🚀 Let's Build Together!
+
+<div align="center">
+
+### 💼 **What I Can Help With**
+
+```
+┌─────────────────────┬─────────────────────┐
+│ 🔬 Data Science     │ 📊 Analytics & BI   │
+├─────────────────────┼─────────────────────┤
+│ 💻 Full-Stack Dev   │ 🤖 AI/ML & RAG      │
+└─────────────────────┴─────────────────────┘
+        🏥 Healthcare Technology Solutions
+```
+
+**Passionate about:** Healthcare Innovation • Data-Driven Decision Making • Intelligent Systems
 
 </div>
 
@@ -295,14 +353,40 @@ I'm passionate about **healthcare innovation**, **data-driven decision making**,
 
 <div align="center">
 
-### 🙏 Thank You!
+### 📨 **Quick Connect**
 
-*Turning data into actionable insights, one project at a time.*
+| 🔗 Profile | 📧 Email | 💼 LinkedIn | 🤝 GitHub |
+|:--:|:--:|:--:|:--:|
+| [![ORCID](https://img.shields.io/badge/ORCID-View-A6CE39?style=for-the-badge&logo=orcid)](https://orcid.org/0009-0003-1251-6581) | [![Gmail](https://img.shields.io/badge/Gmail-Send-D14836?style=for-the-badge&logo=gmail)](mailto:kakarlagana18@gmail.com) | [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/ganapathi-kakarla-ai-data-science) | [![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github)](https://github.com/ganapathi-ai) |
+
+</div>
+
+---
+
+<div align="center">
+
+### 🌟 **Thank You for Visiting!**
+
+*Turning data into actionable insights, one algorithm at a time*
+
+---
+
+![Profile Views](https://komarev.com/ghpvc/?username=ganapathi-ai&color=FF6B6B&style=flat-square)
 
 **Made with ❤️ by Ganapathi Kakarla**
 
-![Stack](https://img.shields.io/badge/Built%20With-Python%20%7C%20Data%20Science%20%7C%20AI%20%7C%20Healthcare-FF6B6B?style=flat-square)
+![Status](https://img.shields.io/badge/Status-🟢%20Open%20to%20Opportunities-success?style=flat-square)
+![Last Update](https://img.shields.io/badge/Last%20Updated-April%202026-blue?style=flat-square)
 
-**Status:** 🟢 Open to Collaborations • 🟢 Available for New Opportunities
+```
+╔═══════════════════════════════════════════════╗
+║  "Innovation is the outcome of intelligent    ║
+║   analysis applied to complex problems"       ║
+╚═══════════════════════════════════════════════╝
+```
+
+---
+
+**⭐ If you find this profile useful, consider starring it!**
 
 </div>
