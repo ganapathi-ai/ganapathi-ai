@@ -3,22 +3,23 @@
   <desc id="desc">Section header representing contribution flow as a living ecosystem.</desc>
   <defs>
     <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%">
-      <stop offset="0%" stop-color="#F4EEFF"/>
-      <stop offset="100%" stop-color="#E2D3FF"/>
+      <stop offset="0%" stop-color="#FFF3FA"/>
+      <stop offset="100%" stop-color="#E9D8FF"/>
     </linearGradient>
     <linearGradient id="flow" x1="0%" y1="0%" x2="100%" y2="0%">
-      <stop offset="0%" stop-color="#e33d82"/>
-      <stop offset="50%" stop-color="#b692d9"/>
-      <stop offset="100%" stop-color="#f4c397"/>
+      <stop offset="0%" stop-color="#D864A3"/>
+      <stop offset="50%" stop-color="#C596F2"/>
+      <stop offset="100%" stop-color="#CFB2F3"/>
     </linearGradient>
   </defs>
   <rect width="1200" height="220" rx="28" fill="url(#bg)"/>
-  <rect x="24" y="24" width="1152" height="172" rx="24" fill="#FAF7FF" fill-opacity="0.84" stroke="#e97a2d" stroke-opacity="0.28"/>
+  <rect x="24" y="24" width="1152" height="172" rx="24" fill="#FFF9FD" fill-opacity="0.84" stroke="#A56BE7" stroke-opacity="0.28"/>
   <text x="88" y="94" fill="#4F355A" font-family="Segoe UI, Arial, sans-serif" font-size="30" font-weight="700">Activity as a living system</text>
   <path d="M124 154 C248 118 310 188 442 160 C558 136 610 98 738 118 C850 136 930 188 1082 144" fill="none" stroke="url(#flow)" stroke-width="10" stroke-linecap="round"/>
-  <circle cx="252" cy="136" r="12" fill="#e33d82"/>
-  <circle cx="490" cy="148" r="12" fill="#e97a2d"/>
-  <circle cx="736" cy="118" r="12" fill="#b692d9"/>
-  <circle cx="962" cy="176" r="12" fill="#f4c397"/>
+  <circle cx="252" cy="136" r="12" fill="#D864A3"/>
+  <circle cx="490" cy="148" r="12" fill="#A56BE7"/>
+  <circle cx="736" cy="118" r="12" fill="#C596F2"/>
+  <circle cx="962" cy="176" r="12" fill="#CFB2F3"/>
 </svg>
+
 

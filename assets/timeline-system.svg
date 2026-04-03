@@ -3,91 +3,92 @@
   <desc id="desc">Two-track timeline showing education and experience milestones.</desc>
   <defs>
     <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%">
-      <stop offset="0%" stop-color="#F4EEFF"/>
-      <stop offset="100%" stop-color="#E2D3FF"/>
+      <stop offset="0%" stop-color="#FFF3FA"/>
+      <stop offset="100%" stop-color="#E9D8FF"/>
     </linearGradient>
     <linearGradient id="edu" x1="0%" y1="0%" x2="100%" y2="0%">
-      <stop offset="0%" stop-color="#f4c397"/>
-      <stop offset="100%" stop-color="#f59e0b"/>
+      <stop offset="0%" stop-color="#CFB2F3"/>
+      <stop offset="100%" stop-color="#A56BE7"/>
     </linearGradient>
     <linearGradient id="exp" x1="0%" y1="0%" x2="100%" y2="0%">
-      <stop offset="0%" stop-color="#e33d82"/>
-      <stop offset="100%" stop-color="#e97a2d"/>
+      <stop offset="0%" stop-color="#D864A3"/>
+      <stop offset="100%" stop-color="#A56BE7"/>
     </linearGradient>
   </defs>
   <rect width="1200" height="500" rx="28" fill="url(#bg)"/>
-  <rect x="28" y="28" width="1144" height="444" rx="24" fill="#FAF7FF" fill-opacity="0.82" stroke="#e97a2d" stroke-opacity="0.35"/>
+  <rect x="28" y="28" width="1144" height="444" rx="24" fill="#FFF9FD" fill-opacity="0.82" stroke="#A56BE7" stroke-opacity="0.35"/>
 
-  <text x="88" y="110" fill="#e97a2d" font-family="Consolas, 'Courier New', monospace" font-size="17">EDUCATION TRACK</text>
+  <text x="88" y="110" fill="#A56BE7" font-family="Consolas, 'Courier New', monospace" font-size="17" font-weight="700">EDUCATION TRACK</text>
   <path d="M88 138 H1112" stroke="url(#edu)" stroke-width="3" stroke-linecap="round"/>
 
   <g transform="translate(146 138)">
-    <circle r="12" fill="#f4c397"/>
+    <circle r="12" fill="#CFB2F3"/>
     <text x="-24" y="-28" fill="#4F355A" font-family="Segoe UI, Arial, sans-serif" font-size="18" font-weight="700">2016</text>
-    <text x="-40" y="46" fill="#4F355A" font-family="Segoe UI, Arial, sans-serif" font-size="15">10th Class</text>
-    <text x="-74" y="68" fill="#8E6D8D" font-family="Segoe UI, Arial, sans-serif" font-size="13">Andhra Pradesh</text>
-    <text x="-72" y="86" fill="#8E6D8D" font-family="Segoe UI, Arial, sans-serif" font-size="13">Residential School</text>
+    <text x="-40" y="46" fill="#4F355A" font-family="Segoe UI, Arial, sans-serif" font-size="15" font-weight="700">10th Class</text>
+    <text x="-74" y="68" fill="#8E6D8D" font-family="Segoe UI, Arial, sans-serif" font-size="13" font-weight="600">Andhra Pradesh</text>
+    <text x="-72" y="86" fill="#8E6D8D" font-family="Segoe UI, Arial, sans-serif" font-size="13" font-weight="600">Residential School</text>
   </g>
 
   <g transform="translate(384 138)">
-    <circle r="12" fill="#f4c397"/>
+    <circle r="12" fill="#CFB2F3"/>
     <text x="-24" y="-28" fill="#4F355A" font-family="Segoe UI, Arial, sans-serif" font-size="18" font-weight="700">2018</text>
-    <text x="-48" y="46" fill="#4F355A" font-family="Segoe UI, Arial, sans-serif" font-size="15">Intermediate</text>
-    <text x="-74" y="68" fill="#8E6D8D" font-family="Segoe UI, Arial, sans-serif" font-size="13">Sri Chaitanya</text>
-    <text x="-68" y="86" fill="#8E6D8D" font-family="Segoe UI, Arial, sans-serif" font-size="13">Junior College</text>
+    <text x="-48" y="46" fill="#4F355A" font-family="Segoe UI, Arial, sans-serif" font-size="15" font-weight="700">Intermediate</text>
+    <text x="-74" y="68" fill="#8E6D8D" font-family="Segoe UI, Arial, sans-serif" font-size="13" font-weight="600">Sri Chaitanya</text>
+    <text x="-68" y="86" fill="#8E6D8D" font-family="Segoe UI, Arial, sans-serif" font-size="13" font-weight="600">Junior College</text>
   </g>
 
   <g transform="translate(656 138)">
-    <circle r="12" fill="#f4c397"/>
+    <circle r="12" fill="#CFB2F3"/>
     <text x="-24" y="-28" fill="#4F355A" font-family="Segoe UI, Arial, sans-serif" font-size="18" font-weight="700">2025</text>
-    <text x="-88" y="46" fill="#4F355A" font-family="Segoe UI, Arial, sans-serif" font-size="15">B.Sc Cardiac Care and</text>
-    <text x="-102" y="68" fill="#4F355A" font-family="Segoe UI, Arial, sans-serif" font-size="15">Cardiovascular Technology</text>
-    <text x="-94" y="90" fill="#8E6D8D" font-family="Segoe UI, Arial, sans-serif" font-size="13">Dr. NTR University of</text>
-    <text x="-48" y="108" fill="#8E6D8D" font-family="Segoe UI, Arial, sans-serif" font-size="13">Health Sciences</text>
+    <text x="-88" y="46" fill="#4F355A" font-family="Segoe UI, Arial, sans-serif" font-size="15" font-weight="700">B.Sc Cardiac Care and</text>
+    <text x="-102" y="68" fill="#4F355A" font-family="Segoe UI, Arial, sans-serif" font-size="15" font-weight="700">Cardiovascular Technology</text>
+    <text x="-94" y="90" fill="#8E6D8D" font-family="Segoe UI, Arial, sans-serif" font-size="13" font-weight="600">Dr. NTR University of</text>
+    <text x="-48" y="108" fill="#8E6D8D" font-family="Segoe UI, Arial, sans-serif" font-size="13" font-weight="600">Health Sciences</text>
   </g>
 
   <g transform="translate(964 138)">
-    <circle r="12" fill="#f4c397"/>
+    <circle r="12" fill="#CFB2F3"/>
     <text x="-48" y="-28" fill="#4F355A" font-family="Segoe UI, Arial, sans-serif" font-size="18" font-weight="700">2025 - 2027</text>
-    <text x="-104" y="46" fill="#4F355A" font-family="Segoe UI, Arial, sans-serif" font-size="15">PGDM AI and Data Science</text>
-    <text x="-40" y="68" fill="#4F355A" font-family="Segoe UI, Arial, sans-serif" font-size="15">(Healthcare)</text>
-    <text x="-50" y="90" fill="#8E6D8D" font-family="Segoe UI, Arial, sans-serif" font-size="13">IIHMR Bangalore</text>
+    <text x="-104" y="46" fill="#4F355A" font-family="Segoe UI, Arial, sans-serif" font-size="15" font-weight="700">PGDM AI and Data Science</text>
+    <text x="-40" y="68" fill="#4F355A" font-family="Segoe UI, Arial, sans-serif" font-size="15" font-weight="700">(Healthcare)</text>
+    <text x="-50" y="90" fill="#8E6D8D" font-family="Segoe UI, Arial, sans-serif" font-size="13" font-weight="600">IIHMR Bangalore</text>
   </g>
 
-  <text x="88" y="286" fill="#e33d82" font-family="Consolas, 'Courier New', monospace" font-size="17">EXPERIENCE TRACK</text>
-  <path d="M88 314 H1112" stroke="url(#exp)" stroke-width="3" stroke-linecap="round"/>
+  <text x="88" y="266" fill="#D864A3" font-family="Consolas, 'Courier New', monospace" font-size="17" font-weight="700">EXPERIENCE TRACK</text>
+  <path d="M88 298 H1112" stroke="url(#exp)" stroke-width="3" stroke-linecap="round"/>
 
-  <g transform="translate(194 314)">
-    <circle r="12" fill="#e33d82"/>
+  <g transform="translate(222 330)">
+    <circle r="12" fill="#D864A3"/>
     <text x="-52" y="-28" fill="#4F355A" font-family="Segoe UI, Arial, sans-serif" font-size="18" font-weight="700">2023 Q4</text>
-    <text x="-78" y="46" fill="#4F355A" font-family="Segoe UI, Arial, sans-serif" font-size="15">Cardiovascular</text>
-    <text x="-76" y="68" fill="#4F355A" font-family="Segoe UI, Arial, sans-serif" font-size="15">Technical Trainee</text>
-    <text x="-76" y="90" fill="#8E6D8D" font-family="Segoe UI, Arial, sans-serif" font-size="13">KIMS-Sunshine Hospitals</text>
+    <text x="-78" y="46" fill="#4F355A" font-family="Segoe UI, Arial, sans-serif" font-size="15" font-weight="700">Cardiovascular</text>
+    <text x="-76" y="68" fill="#4F355A" font-family="Segoe UI, Arial, sans-serif" font-size="15" font-weight="700">Technical Trainee</text>
+    <text x="-76" y="90" fill="#8E6D8D" font-family="Segoe UI, Arial, sans-serif" font-size="13" font-weight="600">KIMS-Sunshine Hospitals</text>
   </g>
 
-  <g transform="translate(464 314)">
-    <circle r="12" fill="#e33d82"/>
+  <g transform="translate(492 330)">
+    <circle r="12" fill="#D864A3"/>
     <text x="-70" y="-28" fill="#4F355A" font-family="Segoe UI, Arial, sans-serif" font-size="18" font-weight="700">2024 - 2025</text>
-    <text x="-78" y="46" fill="#4F355A" font-family="Segoe UI, Arial, sans-serif" font-size="15">Cardiovascular</text>
-    <text x="-72" y="68" fill="#4F355A" font-family="Segoe UI, Arial, sans-serif" font-size="15">Technical Intern</text>
-    <text x="-86" y="90" fill="#8E6D8D" font-family="Segoe UI, Arial, sans-serif" font-size="13">KIMS Hospitals, Srikakulam</text>
+    <text x="-78" y="46" fill="#4F355A" font-family="Segoe UI, Arial, sans-serif" font-size="15" font-weight="700">Cardiovascular</text>
+    <text x="-72" y="68" fill="#4F355A" font-family="Segoe UI, Arial, sans-serif" font-size="15" font-weight="700">Technical Intern</text>
+    <text x="-86" y="90" fill="#8E6D8D" font-family="Segoe UI, Arial, sans-serif" font-size="13" font-weight="600">KIMS Hospitals, Srikakulam</text>
   </g>
 
-  <g transform="translate(756 314)">
-    <circle r="12" fill="#e33d82"/>
+  <g transform="translate(782 330)">
+    <circle r="12" fill="#D864A3"/>
     <text x="-50" y="-28" fill="#4F355A" font-family="Segoe UI, Arial, sans-serif" font-size="18" font-weight="700">2026 Q1</text>
-    <text x="-70" y="46" fill="#4F355A" font-family="Segoe UI, Arial, sans-serif" font-size="15">AI + Data Science</text>
-    <text x="-40" y="68" fill="#4F355A" font-family="Segoe UI, Arial, sans-serif" font-size="15">Internships</text>
-    <text x="-70" y="90" fill="#8E6D8D" font-family="Segoe UI, Arial, sans-serif" font-size="13">Clinchbridge and</text>
-    <text x="-54" y="108" fill="#8E6D8D" font-family="Segoe UI, Arial, sans-serif" font-size="13">Unified Mentor</text>
+    <text x="-70" y="46" fill="#4F355A" font-family="Segoe UI, Arial, sans-serif" font-size="15" font-weight="700">AI + Data Science</text>
+    <text x="-40" y="68" fill="#4F355A" font-family="Segoe UI, Arial, sans-serif" font-size="15" font-weight="700">Internships</text>
+    <text x="-70" y="90" fill="#8E6D8D" font-family="Segoe UI, Arial, sans-serif" font-size="13" font-weight="600">Clinchbridge and</text>
+    <text x="-54" y="108" fill="#8E6D8D" font-family="Segoe UI, Arial, sans-serif" font-size="13" font-weight="600">Unified Mentor</text>
   </g>
 
-  <g transform="translate(1028 314)">
-    <circle r="12" fill="#e97a2d"/>
+  <g transform="translate(1046 330)">
+    <circle r="12" fill="#A56BE7"/>
     <text x="-66" y="-28" fill="#4F355A" font-family="Segoe UI, Arial, sans-serif" font-size="18" font-weight="700">2026 - Now</text>
-    <text x="-72" y="46" fill="#4F355A" font-family="Segoe UI, Arial, sans-serif" font-size="15">LLM Post Training</text>
-    <text x="-20" y="68" fill="#4F355A" font-family="Segoe UI, Arial, sans-serif" font-size="15">Intern</text>
-    <text x="-30" y="90" fill="#8E6D8D" font-family="Segoe UI, Arial, sans-serif" font-size="13">Ethara.AI</text>
+    <text x="-72" y="46" fill="#4F355A" font-family="Segoe UI, Arial, sans-serif" font-size="15" font-weight="700">LLM Post Training</text>
+    <text x="-20" y="68" fill="#4F355A" font-family="Segoe UI, Arial, sans-serif" font-size="15" font-weight="700">Intern</text>
+    <text x="-30" y="90" fill="#8E6D8D" font-family="Segoe UI, Arial, sans-serif" font-size="13" font-weight="600">Ethara.AI</text>
   </g>
 </svg>
+
 

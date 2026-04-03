@@ -1,15 +1,15 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 430" role="img" aria-labelledby="title desc">
+﻿<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 430" role="img" aria-labelledby="title desc">
   <title id="title">Professional profile panel</title>
   <desc id="desc">Glass style profile panel with balanced cards describing Ganapathi Kakarla's focus, mission, and working style.</desc>
   <defs>
     <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%">
-      <stop offset="0%" stop-color="#F4EEFF"/>
-      <stop offset="100%" stop-color="#E2D3FF"/>
+      <stop offset="0%" stop-color="#FFF3FA"/>
+      <stop offset="100%" stop-color="#E9D8FF"/>
     </linearGradient>
     <linearGradient id="line" x1="0%" y1="0%" x2="100%" y2="0%">
-      <stop offset="0%" stop-color="#e33d82"/>
-      <stop offset="50%" stop-color="#b692d9"/>
-      <stop offset="100%" stop-color="#e97a2d"/>
+      <stop offset="0%" stop-color="#D864A3"/>
+      <stop offset="50%" stop-color="#C596F2"/>
+      <stop offset="100%" stop-color="#A56BE7"/>
     </linearGradient>
     <pattern id="scan" width="8" height="8" patternUnits="userSpaceOnUse">
       <rect width="8" height="4" fill="#ffffff" opacity="0.02"/>
@@ -18,73 +18,75 @@
 
   <rect width="1200" height="430" rx="28" fill="url(#bg)"/>
   <rect width="1200" height="430" rx="28" fill="url(#scan)"/>
-  <rect x="24" y="24" width="1152" height="382" rx="24" fill="#FAF7FF" fill-opacity="0.82" stroke="#b692d9" stroke-opacity="0.35"/>
+  <rect x="24" y="24" width="1152" height="382" rx="24" fill="#FFF9FD" fill-opacity="0.82" stroke="#C596F2" stroke-opacity="0.35"/>
   <path d="M88 56 H1112" stroke="url(#line)" stroke-width="2" opacity="0.7"/>
 
   <g transform="translate(72 98)">
-    <circle cx="126" cy="92" r="84" fill="none" stroke="#e33d82" stroke-opacity="0.52" stroke-width="2"/>
-    <circle cx="126" cy="92" r="60" fill="#EDE3FF" stroke="#e97a2d" stroke-opacity="0.52"/>
+    <circle cx="126" cy="92" r="84" fill="none" stroke="#D864A3" stroke-opacity="0.52" stroke-width="2"/>
+    <circle cx="126" cy="92" r="60" fill="#F6E7FF" stroke="#A56BE7" stroke-opacity="0.52"/>
     <text x="81" y="86" fill="#4F355A" font-family="Consolas, 'Courier New', monospace" font-size="20">AI / DS</text>
-    <text x="69" y="111" fill="#e97a2d" font-family="Consolas, 'Courier New', monospace" font-size="20">HEALTHCARE</text>
+    <text x="69" y="111" fill="#A56BE7" font-family="Consolas, 'Courier New', monospace" font-size="20">HEALTHCARE</text>
 
-    <rect x="8" y="214" width="236" height="70" rx="18" fill="#F2EAFF" stroke="#e97a2d" stroke-opacity="0.3"/>
+    <rect x="8" y="214" width="236" height="70" rx="18" fill="#FAEFFF" stroke="#A56BE7" stroke-opacity="0.3"/>
     <text x="26" y="241" fill="#8E6D8D" font-family="Consolas, 'Courier New', monospace" font-size="14">PRIMARY MODE</text>
     <text x="26" y="267" fill="#4F355A" font-family="Segoe UI, Arial, sans-serif" font-size="18">Data into decisions</text>
   </g>
 
-  <g transform="translate(340 96)">
-    <text x="0" y="0" fill="#4F355A" font-family="Segoe UI, Arial, sans-serif" font-size="30" font-weight="700">Professional Profile</text>
-    <text x="0" y="36" fill="#765F79" font-family="Segoe UI, Arial, sans-serif" font-size="17">Data Scientist and AI Engineer working across healthcare analytics,</text>
-    <text x="0" y="60" fill="#765F79" font-family="Segoe UI, Arial, sans-serif" font-size="17">business intelligence, machine learning, and deployable decision systems.</text>
+  <g transform="translate(340 92)">
+    <text x="0" y="0" fill="#4F355A" font-family="Segoe UI, Arial, sans-serif" font-size="31" font-weight="800">Professional Profile</text>
+    <text x="0" y="36" fill="#6D557C" font-family="Segoe UI, Arial, sans-serif" font-size="16" font-weight="600">Data Scientist and AI Engineer working across</text>
+    <text x="0" y="60" fill="#6D557C" font-family="Segoe UI, Arial, sans-serif" font-size="16" font-weight="600">healthcare analytics, business intelligence,</text>
+    <text x="0" y="84" fill="#6D557C" font-family="Segoe UI, Arial, sans-serif" font-size="16" font-weight="600">machine learning, and deployable decision systems.</text>
 
-    <g transform="translate(0 104)">
-      <rect width="214" height="94" rx="18" fill="#F2EAFF" stroke="#b692d9" stroke-opacity="0.28"/>
-      <text x="18" y="28" fill="#8E6D8D" font-family="Consolas, 'Courier New', monospace" font-size="14">MISSION</text>
-      <text x="18" y="54" fill="#4F355A" font-family="Segoe UI, Arial, sans-serif" font-size="17">Build intelligent products</text>
-      <text x="18" y="76" fill="#4F355A" font-family="Segoe UI, Arial, sans-serif" font-size="17">with measurable impact</text>
+    <g transform="translate(0 122)">
+      <rect width="214" height="94" rx="18" fill="#FAEFFF" stroke="#C596F2" stroke-opacity="0.28"/>
+      <text x="18" y="28" fill="#8E6D8D" font-family="Consolas, 'Courier New', monospace" font-size="14" font-weight="700">MISSION</text>
+      <text x="18" y="54" fill="#4F355A" font-family="Segoe UI, Arial, sans-serif" font-size="17" font-weight="700">Build intelligent products</text>
+      <text x="18" y="76" fill="#4F355A" font-family="Segoe UI, Arial, sans-serif" font-size="17" font-weight="700">with measurable impact</text>
     </g>
 
-    <g transform="translate(230 104)">
-      <rect width="214" height="94" rx="18" fill="#F2EAFF" stroke="#e97a2d" stroke-opacity="0.28"/>
-      <text x="18" y="28" fill="#8E6D8D" font-family="Consolas, 'Courier New', monospace" font-size="14">FOCUS</text>
-      <text x="18" y="54" fill="#4F355A" font-family="Segoe UI, Arial, sans-serif" font-size="17">Healthcare analytics,</text>
-      <text x="18" y="76" fill="#4F355A" font-family="Segoe UI, Arial, sans-serif" font-size="17">LLMs, BI, and product insight</text>
+    <g transform="translate(230 122)">
+      <rect width="214" height="94" rx="18" fill="#FAEFFF" stroke="#A56BE7" stroke-opacity="0.28"/>
+      <text x="18" y="28" fill="#8E6D8D" font-family="Consolas, 'Courier New', monospace" font-size="14" font-weight="700">FOCUS</text>
+      <text x="18" y="54" fill="#4F355A" font-family="Segoe UI, Arial, sans-serif" font-size="16" font-weight="700">Healthcare analytics,</text>
+      <text x="18" y="76" fill="#4F355A" font-family="Segoe UI, Arial, sans-serif" font-size="16" font-weight="700">LLMs, BI, and product insight</text>
     </g>
 
-    <g transform="translate(0 216)">
-      <rect width="444" height="84" rx="18" fill="#F2EAFF" stroke="#f4c397" stroke-opacity="0.28"/>
-      <text x="18" y="28" fill="#8E6D8D" font-family="Consolas, 'Courier New', monospace" font-size="14">OPERATING STYLE</text>
-      <text x="18" y="54" fill="#4F355A" font-family="Segoe UI, Arial, sans-serif" font-size="17">Research-minded builder with domain depth,</text>
-      <text x="18" y="76" fill="#4F355A" font-family="Segoe UI, Arial, sans-serif" font-size="17">product curiosity, and execution focus.</text>
+    <g transform="translate(0 234)">
+      <rect width="444" height="84" rx="18" fill="#FAEFFF" stroke="#CFB2F3" stroke-opacity="0.28"/>
+      <text x="18" y="28" fill="#8E6D8D" font-family="Consolas, 'Courier New', monospace" font-size="14" font-weight="700">OPERATING STYLE</text>
+      <text x="18" y="54" fill="#4F355A" font-family="Segoe UI, Arial, sans-serif" font-size="17" font-weight="700">Research-minded builder with domain depth,</text>
+      <text x="18" y="76" fill="#4F355A" font-family="Segoe UI, Arial, sans-serif" font-size="17" font-weight="700">product curiosity, and execution focus.</text>
     </g>
   </g>
 
   <g transform="translate(814 82)">
-    <rect width="320" height="268" rx="20" fill="#F2EAFF" stroke="#e33d82" stroke-opacity="0.3"/>
-    <text x="22" y="32" fill="#8E6D8D" font-family="Consolas, 'Courier New', monospace" font-size="14">LIVE SIGNALS</text>
+    <rect width="320" height="268" rx="20" fill="#FAEFFF" stroke="#D864A3" stroke-opacity="0.3"/>
+    <text x="22" y="32" fill="#8E6D8D" font-family="Consolas, 'Courier New', monospace" font-size="14" font-weight="700">LIVE SIGNALS</text>
 
     <g transform="translate(18 52)">
-      <rect width="284" height="42" rx="14" fill="#EDE3FF" stroke="#C8B2F0" stroke-opacity="0.7"/>
-      <text x="16" y="18" fill="#8E6D8D" font-family="Consolas, 'Courier New', monospace" font-size="12">LANGUAGES</text>
-      <text x="16" y="31" fill="#4F355A" font-family="Segoe UI, Arial, sans-serif" font-size="13">Python, TypeScript, SQL, R</text>
+      <rect width="284" height="42" rx="14" fill="#F6E7FF" stroke="#DABAF4" stroke-opacity="0.7"/>
+      <text x="16" y="18" fill="#8E6D8D" font-family="Consolas, 'Courier New', monospace" font-size="12" font-weight="700">LANGUAGES</text>
+      <text x="16" y="31" fill="#4F355A" font-family="Segoe UI, Arial, sans-serif" font-size="13" font-weight="700">Python, TypeScript, SQL, R</text>
     </g>
 
     <g transform="translate(18 102)">
-      <rect width="284" height="42" rx="14" fill="#EDE3FF" stroke="#C8B2F0" stroke-opacity="0.7"/>
-      <text x="16" y="18" fill="#8E6D8D" font-family="Consolas, 'Courier New', monospace" font-size="12">DOMAINS</text>
-      <text x="16" y="31" fill="#4F355A" font-family="Segoe UI, Arial, sans-serif" font-size="13">Healthcare, BI, ML, GenAI</text>
+      <rect width="284" height="42" rx="14" fill="#F6E7FF" stroke="#DABAF4" stroke-opacity="0.7"/>
+      <text x="16" y="18" fill="#8E6D8D" font-family="Consolas, 'Courier New', monospace" font-size="12" font-weight="700">DOMAINS</text>
+      <text x="16" y="31" fill="#4F355A" font-family="Segoe UI, Arial, sans-serif" font-size="13" font-weight="700">Healthcare, BI, ML, GenAI</text>
     </g>
 
     <g transform="translate(18 152)">
-      <rect width="284" height="42" rx="14" fill="#EDE3FF" stroke="#C8B2F0" stroke-opacity="0.7"/>
-      <text x="16" y="18" fill="#8E6D8D" font-family="Consolas, 'Courier New', monospace" font-size="12">OUTPUTS</text>
-      <text x="16" y="31" fill="#4F355A" font-family="Segoe UI, Arial, sans-serif" font-size="13">Dashboards, models, AI workflows</text>
+      <rect width="284" height="42" rx="14" fill="#F6E7FF" stroke="#DABAF4" stroke-opacity="0.7"/>
+      <text x="16" y="18" fill="#8E6D8D" font-family="Consolas, 'Courier New', monospace" font-size="12" font-weight="700">OUTPUTS</text>
+      <text x="16" y="31" fill="#4F355A" font-family="Segoe UI, Arial, sans-serif" font-size="13" font-weight="700">Dashboards, models, AI workflows</text>
     </g>
 
     <g transform="translate(18 202)">
-      <rect width="284" height="42" rx="14" fill="#EDE3FF" stroke="#C8B2F0" stroke-opacity="0.7"/>
-      <text x="16" y="18" fill="#8E6D8D" font-family="Consolas, 'Courier New', monospace" font-size="12">MINDSET</text>
-      <text x="16" y="31" fill="#4F355A" font-family="Segoe UI, Arial, sans-serif" font-size="13">Build useful systems with clarity</text>
+      <rect width="284" height="42" rx="14" fill="#F6E7FF" stroke="#DABAF4" stroke-opacity="0.7"/>
+      <text x="16" y="18" fill="#8E6D8D" font-family="Consolas, 'Courier New', monospace" font-size="12" font-weight="700">MINDSET</text>
+      <text x="16" y="31" fill="#4F355A" font-family="Segoe UI, Arial, sans-serif" font-size="13" font-weight="700">Build useful systems with clarity</text>
     </g>
   </g>
 </svg>
+

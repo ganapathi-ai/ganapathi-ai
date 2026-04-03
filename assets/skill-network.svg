@@ -3,8 +3,8 @@
   <desc id="desc">Clustered skill map showing connected strengths across AI, analytics, healthcare, and development.</desc>
   <defs>
     <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%">
-      <stop offset="0%" stop-color="#F4EEFF"/>
-      <stop offset="100%" stop-color="#E2D3FF"/>
+      <stop offset="0%" stop-color="#FFF3FA"/>
+      <stop offset="100%" stop-color="#E9D8FF"/>
     </linearGradient>
     <filter id="glow" x="-40%" y="-40%" width="180%" height="180%">
       <feGaussianBlur stdDeviation="7" result="blur"/>
@@ -15,77 +15,78 @@
     </filter>
   </defs>
   <rect width="1200" height="500" rx="28" fill="url(#bg)"/>
-  <rect x="24" y="24" width="1152" height="452" rx="24" fill="#FAF7FF" fill-opacity="0.85" stroke="#b692d9" stroke-opacity="0.3"/>
+  <rect x="24" y="24" width="1152" height="452" rx="24" fill="#FFF9FD" fill-opacity="0.85" stroke="#C596F2" stroke-opacity="0.3"/>
 
   <g stroke-linecap="round" opacity="0.48">
-    <path d="M600 252 L344 152" stroke="#e33d82" stroke-width="2"/>
-    <path d="M600 252 L344 356" stroke="#e97a2d" stroke-width="2"/>
-    <path d="M600 252 L880 148" stroke="#b692d9" stroke-width="2"/>
-    <path d="M600 252 L892 360" stroke="#e97a2d" stroke-width="2"/>
-    <path d="M600 252 L600 114" stroke="#e97a2d" stroke-width="2"/>
+    <path d="M600 252 L344 152" stroke="#D864A3" stroke-width="2"/>
+    <path d="M600 252 L344 356" stroke="#A56BE7" stroke-width="2"/>
+    <path d="M600 252 L880 148" stroke="#C596F2" stroke-width="2"/>
+    <path d="M600 252 L892 360" stroke="#A56BE7" stroke-width="2"/>
+    <path d="M600 252 L600 114" stroke="#A56BE7" stroke-width="2"/>
 
-    <path d="M344 152 L210 104" stroke="#e33d82" stroke-width="1.5"/>
-    <path d="M344 152 L236 188" stroke="#e33d82" stroke-width="1.5"/>
-    <path d="M344 152 L372 76" stroke="#e33d82" stroke-width="1.5"/>
+    <path d="M344 152 L210 104" stroke="#D864A3" stroke-width="1.5"/>
+    <path d="M344 152 L236 188" stroke="#D864A3" stroke-width="1.5"/>
+    <path d="M344 152 L372 76" stroke="#D864A3" stroke-width="1.5"/>
 
-    <path d="M344 356 L210 398" stroke="#e97a2d" stroke-width="1.5"/>
-    <path d="M344 356 L278 290" stroke="#e97a2d" stroke-width="1.5"/>
-    <path d="M344 356 L420 416" stroke="#e97a2d" stroke-width="1.5"/>
+    <path d="M344 356 L210 398" stroke="#A56BE7" stroke-width="1.5"/>
+    <path d="M344 356 L278 290" stroke="#A56BE7" stroke-width="1.5"/>
+    <path d="M344 356 L420 416" stroke="#A56BE7" stroke-width="1.5"/>
 
-    <path d="M880 148 L984 94" stroke="#b692d9" stroke-width="1.5"/>
-    <path d="M880 148 L1010 156" stroke="#b692d9" stroke-width="1.5"/>
-    <path d="M880 148 L842 74" stroke="#b692d9" stroke-width="1.5"/>
+    <path d="M880 148 L984 94" stroke="#C596F2" stroke-width="1.5"/>
+    <path d="M880 148 L1010 156" stroke="#C596F2" stroke-width="1.5"/>
+    <path d="M880 148 L842 74" stroke="#C596F2" stroke-width="1.5"/>
 
-    <path d="M892 360 L970 400" stroke="#e97a2d" stroke-width="1.5"/>
-    <path d="M892 360 L1006 304" stroke="#e97a2d" stroke-width="1.5"/>
-    <path d="M892 360 L814 420" stroke="#e97a2d" stroke-width="1.5"/>
+    <path d="M892 360 L970 400" stroke="#A56BE7" stroke-width="1.5"/>
+    <path d="M892 360 L1006 304" stroke="#A56BE7" stroke-width="1.5"/>
+    <path d="M892 360 L814 420" stroke="#A56BE7" stroke-width="1.5"/>
 
-    <path d="M600 114 L530 50" stroke="#e97a2d" stroke-width="1.5"/>
-    <path d="M600 114 L670 50" stroke="#e97a2d" stroke-width="1.5"/>
+    <path d="M600 114 L530 50" stroke="#A56BE7" stroke-width="1.5"/>
+    <path d="M600 114 L670 50" stroke="#A56BE7" stroke-width="1.5"/>
   </g>
 
   <g filter="url(#glow)">
-    <circle cx="600" cy="252" r="60" fill="#F2EAFF" stroke="#e33d82" stroke-width="2"/>
+    <circle cx="600" cy="252" r="60" fill="#FAEFFF" stroke="#D864A3" stroke-width="2"/>
     <text x="600" y="246" text-anchor="middle" fill="#4F355A" font-family="Consolas, 'Courier New', monospace" font-size="24">AI CORE</text>
-    <text x="600" y="274" text-anchor="middle" fill="#e97a2d" font-family="Segoe UI, Arial, sans-serif" font-size="18">Ganapathi AI</text>
+    <text x="600" y="274" text-anchor="middle" fill="#A56BE7" font-family="Segoe UI, Arial, sans-serif" font-size="18">Ganapathi AI</text>
   </g>
 
   <g font-family="Segoe UI, Arial, sans-serif">
-    <rect x="272" y="120" width="144" height="64" rx="32" fill="#EDE3FF" stroke="#e33d82" stroke-width="2"/>
+    <rect x="272" y="120" width="144" height="64" rx="32" fill="#F6E7FF" stroke="#D864A3" stroke-width="2"/>
     <text x="344" y="159" text-anchor="middle" fill="#4F355A" font-size="18">AI / ML</text>
 
-    <rect x="242" y="324" width="204" height="64" rx="32" fill="#EDE3FF" stroke="#e97a2d" stroke-width="2"/>
+    <rect x="242" y="324" width="204" height="64" rx="32" fill="#F6E7FF" stroke="#A56BE7" stroke-width="2"/>
     <text x="344" y="363" text-anchor="middle" fill="#4F355A" font-size="18">HEALTHCARE</text>
 
-    <rect x="760" y="116" width="240" height="64" rx="32" fill="#EDE3FF" stroke="#b692d9" stroke-width="2"/>
+    <rect x="760" y="116" width="240" height="64" rx="32" fill="#F6E7FF" stroke="#C596F2" stroke-width="2"/>
     <text x="880" y="155" text-anchor="middle" fill="#4F355A" font-size="18">ANALYTICS / BI</text>
 
-    <rect x="808" y="328" width="168" height="64" rx="32" fill="#EDE3FF" stroke="#e97a2d" stroke-width="2"/>
+    <rect x="808" y="328" width="168" height="64" rx="32" fill="#F6E7FF" stroke="#A56BE7" stroke-width="2"/>
     <text x="892" y="367" text-anchor="middle" fill="#4F355A" font-size="18">PRODUCT</text>
 
-    <rect x="492" y="84" width="216" height="60" rx="30" fill="#EDE3FF" stroke="#e97a2d" stroke-width="2"/>
+    <rect x="492" y="84" width="216" height="60" rx="30" fill="#F6E7FF" stroke="#A56BE7" stroke-width="2"/>
     <text x="600" y="121" text-anchor="middle" fill="#4F355A" font-size="18">FULL STACK</text>
   </g>
 
   <g fill="#765F79" font-family="Consolas, 'Courier New', monospace" font-size="15">
-    <circle cx="210" cy="104" r="8" fill="#e33d82"/><text x="224" y="109">TensorFlow</text>
-    <circle cx="236" cy="188" r="8" fill="#e33d82"/><text x="250" y="193">RAG / LLMs</text>
-    <circle cx="372" cy="76" r="8" fill="#e33d82"/><text x="386" y="81">Deep Learning</text>
+    <circle cx="210" cy="104" r="8" fill="#D864A3"/><text x="224" y="109">TensorFlow</text>
+    <circle cx="236" cy="188" r="8" fill="#D864A3"/><text x="250" y="193">RAG / LLMs</text>
+    <circle cx="372" cy="76" r="8" fill="#D864A3"/><text x="386" y="81">Deep Learning</text>
 
-    <circle cx="210" cy="398" r="8" fill="#e97a2d"/><text x="224" y="403">Clinical Analytics</text>
-    <circle cx="278" cy="290" r="8" fill="#e97a2d"/><text x="292" y="295">Patient Outcomes</text>
-    <circle cx="420" cy="416" r="8" fill="#e97a2d"/><text x="434" y="421">Healthcare Ops</text>
+    <circle cx="210" cy="398" r="8" fill="#A56BE7"/><text x="224" y="403">Clinical Analytics</text>
+    <circle cx="278" cy="290" r="8" fill="#A56BE7"/><text x="292" y="295">Patient Outcomes</text>
+    <circle cx="420" cy="416" r="8" fill="#A56BE7"/><text x="434" y="421">Healthcare Ops</text>
 
-    <circle cx="984" cy="94" r="8" fill="#b692d9"/><text x="998" y="99">Power BI</text>
-    <circle cx="1010" cy="156" r="8" fill="#b692d9"/><text x="1024" y="161">Tableau</text>
-    <circle cx="842" cy="74" r="8" fill="#b692d9"/><text x="856" y="79">Statistics</text>
+    <circle cx="984" cy="94" r="8" fill="#C596F2"/><text x="998" y="99">Power BI</text>
+    <circle cx="1010" cy="156" r="8" fill="#C596F2"/><text x="1024" y="161">Tableau</text>
+    <circle cx="842" cy="74" r="8" fill="#C596F2"/><text x="856" y="79">Statistics</text>
 
-    <circle cx="970" cy="400" r="8" fill="#e97a2d"/><text x="984" y="405">Optimization</text>
-    <circle cx="1006" cy="304" r="8" fill="#e97a2d"/><text x="1020" y="309">Revenue Models</text>
-    <circle cx="814" cy="420" r="8" fill="#e97a2d"/><text x="828" y="425">Decision Systems</text>
+    <circle cx="970" cy="400" r="8" fill="#A56BE7"/><text x="984" y="405">Optimization</text>
+    <circle cx="1006" cy="304" r="8" fill="#A56BE7"/><text x="1020" y="309">Revenue Models</text>
+    <circle cx="814" cy="420" r="8" fill="#A56BE7"/><text x="828" y="425">Decision Systems</text>
 
-    <circle cx="530" cy="50" r="8" fill="#e97a2d"/><text x="448" y="55">TypeScript</text>
-    <circle cx="670" cy="50" r="8" fill="#e97a2d"/><text x="684" y="55">Python / APIs / Streamlit</text>
+    <circle cx="530" cy="50" r="8" fill="#A56BE7"/><text x="448" y="55">TypeScript</text>
+    <circle cx="670" cy="50" r="8" fill="#A56BE7"/><text x="684" y="55">Python / APIs / Streamlit</text>
   </g>
 </svg>
+
 
