@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 220" role="img" aria-labelledby="title desc">
+  <title id="title">Snake ecosystem</title>
+  <desc id="desc">Section header representing contribution flow as a living ecosystem.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#08111d"/>
+      <stop offset="100%" stop-color="#12283a"/>
+    </linearGradient>
+    <linearGradient id="flow" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#22c55e"/>
+      <stop offset="50%" stop-color="#86efac"/>
+      <stop offset="100%" stop-color="#14b8a6"/>
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="220" rx="28" fill="url(#bg)"/>
+  <rect x="24" y="24" width="1152" height="172" rx="24" fill="#08131f" fill-opacity="0.84" stroke="#2dd4bf" stroke-opacity="0.28"/>
+  <text x="88" y="72" fill="#94a3b8" font-family="Consolas, 'Courier New', monospace" font-size="18" letter-spacing="3">SNAKE ECOSYSTEM / CONTRIBUTION FLOW</text>
+  <text x="88" y="112" fill="#e2e8f0" font-family="Segoe UI, Arial, sans-serif" font-size="30" font-weight="700">Activity as a living system</text>
+  <path d="M124 154 C248 118 310 188 442 160 C558 136 610 98 738 118 C850 136 930 188 1082 144" fill="none" stroke="url(#flow)" stroke-width="10" stroke-linecap="round"/>
+  <circle cx="252" cy="136" r="12" fill="#22c55e"/>
+  <circle cx="490" cy="148" r="12" fill="#4ade80"/>
+  <circle cx="736" cy="118" r="12" fill="#86efac"/>
+  <circle cx="962" cy="176" r="12" fill="#14b8a6"/>
+</svg>

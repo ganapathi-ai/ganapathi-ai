@@ -1,0 +1,63 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 460" role="img" aria-labelledby="title desc">
+  <title id="title">Competency radar</title>
+  <desc id="desc">Radar chart style visualization for core competencies with system matrix values.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#07111c"/>
+      <stop offset="100%" stop-color="#122739"/>
+    </linearGradient>
+    <linearGradient id="poly" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#22d3ee" stop-opacity="0.72"/>
+      <stop offset="100%" stop-color="#2dd4bf" stop-opacity="0.38"/>
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="460" rx="28" fill="url(#bg)"/>
+  <rect x="24" y="24" width="1152" height="412" rx="24" fill="#08131f" fill-opacity="0.82" stroke="#38bdf8" stroke-opacity="0.28"/>
+  <text x="88" y="70" fill="#94a3b8" font-family="Consolas, 'Courier New', monospace" font-size="18" letter-spacing="3">RADAR COMPETENCIES / SYSTEM MATRIX</text>
+  <g transform="translate(0 8)">
+    <g fill="none" stroke="#1e3a52" stroke-width="1.2">
+      <polygon points="320,112 433,177 433,307 320,372 207,307 207,177"/>
+      <polygon points="320,144 404,193 404,291 320,340 236,291 236,193"/>
+      <polygon points="320,176 375,208 375,276 320,308 265,276 265,208"/>
+      <polygon points="320,208 347,224 347,260 320,276 293,260 293,224"/>
+      <line x1="320" y1="80" x2="320" y2="404"/>
+      <line x1="178" y1="160" x2="462" y2="324"/>
+      <line x1="178" y1="324" x2="462" y2="160"/>
+    </g>
+    <polygon points="320,116 419,180 404,280 320,324 241,296 229,204" fill="url(#poly)" stroke="#67e8f9" stroke-width="2"/>
+    <circle cx="320" cy="116" r="5" fill="#67e8f9"/>
+    <circle cx="419" cy="180" r="5" fill="#67e8f9"/>
+    <circle cx="404" cy="280" r="5" fill="#67e8f9"/>
+    <circle cx="320" cy="324" r="5" fill="#67e8f9"/>
+    <circle cx="241" cy="296" r="5" fill="#67e8f9"/>
+    <circle cx="229" cy="204" r="5" fill="#67e8f9"/>
+    <text x="281" y="96" fill="#e2e8f0" font-family="Segoe UI, Arial, sans-serif" font-size="18">Healthcare</text>
+    <text x="434" y="176" fill="#e2e8f0" font-family="Segoe UI, Arial, sans-serif" font-size="18">AI / ML</text>
+    <text x="420" y="302" fill="#e2e8f0" font-family="Segoe UI, Arial, sans-serif" font-size="18">Analytics</text>
+    <text x="292" y="392" fill="#e2e8f0" font-family="Segoe UI, Arial, sans-serif" font-size="18">BI</text>
+    <text x="112" y="304" fill="#e2e8f0" font-family="Segoe UI, Arial, sans-serif" font-size="18">Product</text>
+    <text x="118" y="176" fill="#e2e8f0" font-family="Segoe UI, Arial, sans-serif" font-size="18">Full Stack</text>
+  </g>
+  <g transform="translate(610 104)">
+    <rect width="502" height="246" rx="22" fill="#0b1b28" stroke="#2dd4bf" stroke-opacity="0.26"/>
+    <text x="26" y="38" fill="#94a3b8" font-family="Consolas, 'Courier New', monospace" font-size="17">COMPETENCY MATRIX</text>
+    <g font-family="Consolas, 'Courier New', monospace" font-size="18">
+      <rect x="26" y="62" width="450" height="24" rx="12" fill="#12283a"/>
+      <rect x="26" y="62" width="412" height="24" rx="12" fill="#22d3ee" fill-opacity="0.78"/>
+      <text x="26" y="56" fill="#e2e8f0">Healthcare Intelligence</text>
+      <text x="448" y="79" fill="#08131f">96</text>
+      <rect x="26" y="112" width="450" height="24" rx="12" fill="#12283a"/>
+      <rect x="26" y="112" width="392" height="24" rx="12" fill="#38bdf8" fill-opacity="0.78"/>
+      <text x="26" y="106" fill="#e2e8f0">AI / ML / GenAI</text>
+      <text x="428" y="129" fill="#08131f">92</text>
+      <rect x="26" y="162" width="450" height="24" rx="12" fill="#12283a"/>
+      <rect x="26" y="162" width="404" height="24" rx="12" fill="#2dd4bf" fill-opacity="0.78"/>
+      <text x="26" y="156" fill="#e2e8f0">Analytics / BI / Visualization</text>
+      <text x="440" y="179" fill="#08131f">94</text>
+      <rect x="26" y="212" width="450" height="24" rx="12" fill="#12283a"/>
+      <rect x="26" y="212" width="360" height="24" rx="12" fill="#facc15" fill-opacity="0.84"/>
+      <text x="26" y="206" fill="#e2e8f0">Product + Full-Stack Delivery</text>
+      <text x="396" y="229" fill="#08131f">84</text>
+    </g>
+  </g>
+</svg>

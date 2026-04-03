@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 300" role="img" aria-labelledby="title desc">
+  <title id="title">Terminal quote ending</title>
+  <desc id="desc">Terminal style closing panel with a short philosophy statement.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#07111d"/>
+      <stop offset="100%" stop-color="#12283a"/>
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="300" rx="28" fill="url(#bg)"/>
+  <rect x="70" y="48" width="1060" height="204" rx="20" fill="#050b12" stroke="#22d3ee" stroke-opacity="0.4"/>
+  <circle cx="106" cy="74" r="6" fill="#fb7185"/>
+  <circle cx="128" cy="74" r="6" fill="#facc15"/>
+  <circle cx="150" cy="74" r="6" fill="#22c55e"/>
+  <text x="182" y="80" fill="#94a3b8" font-family="Consolas, 'Courier New', monospace" font-size="16">terminal://philosophy-engine</text>
+  <text x="100" y="128" fill="#67e8f9" font-family="Consolas, 'Courier New', monospace" font-size="20">$ initialize_closing_message</text>
+  <text x="100" y="168" fill="#e2e8f0" font-family="Consolas, 'Courier New', monospace" font-size="28">&gt; Turning data into decisiveness, one system at a time.</text>
+  <text x="100" y="208" fill="#cbd5e1" font-family="Consolas, 'Courier New', monospace" font-size="20">&gt; Open to healthcare AI, analytics, product intelligence, and meaningful collaboration _</text>
+</svg>

@@ -1,0 +1,57 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 460" role="img" aria-labelledby="title desc">
+  <title id="title">Project modules grid</title>
+  <desc id="desc">Dashboard style module grid featuring major public projects and their categories.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#07111d"/>
+      <stop offset="100%" stop-color="#12283a"/>
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="460" rx="28" fill="url(#bg)"/>
+  <rect x="24" y="24" width="1152" height="412" rx="24" fill="#08131f" fill-opacity="0.82" stroke="#38bdf8" stroke-opacity="0.3"/>
+  <text x="88" y="70" fill="#94a3b8" font-family="Consolas, 'Courier New', monospace" font-size="18" letter-spacing="3">PROJECT MODULES GRID</text>
+  <g font-family="Segoe UI, Arial, sans-serif">
+    <g transform="translate(88 110)">
+      <rect width="306" height="122" rx="20" fill="#0d1b28" stroke="#facc15" stroke-opacity="0.4"/>
+      <rect width="306" height="10" rx="10" fill="#facc15"/>
+      <text x="22" y="40" fill="#fef3c7" font-size="14">REV-01 / PUBLIC</text>
+      <text x="22" y="70" fill="#e2e8f0" font-size="22" font-weight="700">Product Optimization</text>
+      <text x="22" y="98" fill="#cbd5e1" font-size="16">Revenue contribution analysis and portfolio insight</text>
+    </g>
+    <g transform="translate(446 110)">
+      <rect width="306" height="122" rx="20" fill="#0d1b28" stroke="#22d3ee" stroke-opacity="0.4"/>
+      <rect width="306" height="10" rx="10" fill="#22d3ee"/>
+      <text x="22" y="40" fill="#cffafe" font-size="14">LOG-02 / PUBLIC</text>
+      <text x="22" y="70" fill="#e2e8f0" font-size="22" font-weight="700">APL Logistics Intelligence</text>
+      <text x="22" y="98" fill="#cbd5e1" font-size="16">Supply chain profitability and decision analytics</text>
+    </g>
+    <g transform="translate(804 110)">
+      <rect width="306" height="122" rx="20" fill="#0d1b28" stroke="#2dd4bf" stroke-opacity="0.4"/>
+      <rect width="306" height="10" rx="10" fill="#2dd4bf"/>
+      <text x="22" y="40" fill="#ccfbf1" font-size="14">HC-03 / DASHBOARD</text>
+      <text x="22" y="70" fill="#e2e8f0" font-size="22" font-weight="700">Healthcare Ops Dashboard</text>
+      <text x="22" y="98" fill="#cbd5e1" font-size="16">Clinical KPIs and hospital operations visibility</text>
+    </g>
+    <g transform="translate(88 268)">
+      <rect width="306" height="122" rx="20" fill="#0d1b28" stroke="#38bdf8" stroke-opacity="0.4"/>
+      <rect width="306" height="10" rx="10" fill="#38bdf8"/>
+      <text x="22" y="40" fill="#dbeafe" font-size="14">HC-04 / ANALYTICS</text>
+      <text x="22" y="70" fill="#e2e8f0" font-size="22" font-weight="700">UAC Care Transition</text>
+      <text x="22" y="98" fill="#cbd5e1" font-size="16">Patient journey analytics and care-flow optimization</text>
+    </g>
+    <g transform="translate(446 268)">
+      <rect width="306" height="122" rx="20" fill="#0d1b28" stroke="#fb7185" stroke-opacity="0.4"/>
+      <rect width="306" height="10" rx="10" fill="#fb7185"/>
+      <text x="22" y="40" fill="#ffe4e6" font-size="14">NLP-05 / APP</text>
+      <text x="22" y="70" fill="#e2e8f0" font-size="22" font-weight="700">LinkedIn Content Engine</text>
+      <text x="22" y="98" fill="#cbd5e1" font-size="16">Content analysis and engagement optimization</text>
+    </g>
+    <g transform="translate(804 268)">
+      <rect width="306" height="122" rx="20" fill="#0d1b28" stroke="#c084fc" stroke-opacity="0.4"/>
+      <rect width="306" height="10" rx="10" fill="#c084fc"/>
+      <text x="22" y="40" fill="#f3e8ff" font-size="14">ED-06 / PLATFORM</text>
+      <text x="22" y="70" fill="#e2e8f0" font-size="22" font-weight="700">VerbLume</text>
+      <text x="22" y="98" fill="#cbd5e1" font-size="16">Adaptive language learning with AI-guided progression</text>
+    </g>
+  </g>
+</svg>

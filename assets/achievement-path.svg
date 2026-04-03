@@ -1,0 +1,46 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 360" role="img" aria-labelledby="title desc">
+  <title id="title">Achievement path</title>
+  <desc id="desc">Milestone path showing key achievement signals in Ganapathi Kakarla's profile.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#08111d"/>
+      <stop offset="100%" stop-color="#12283a"/>
+    </linearGradient>
+    <linearGradient id="path" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#22d3ee"/>
+      <stop offset="50%" stop-color="#2dd4bf"/>
+      <stop offset="100%" stop-color="#facc15"/>
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="360" rx="28" fill="url(#bg)"/>
+  <rect x="24" y="24" width="1152" height="312" rx="24" fill="#08131f" fill-opacity="0.82" stroke="#38bdf8" stroke-opacity="0.28"/>
+  <text x="88" y="70" fill="#94a3b8" font-family="Consolas, 'Courier New', monospace" font-size="18" letter-spacing="3">ACHIEVEMENT PATH</text>
+  <path d="M90 246 C182 198 238 168 326 174 C448 182 478 274 604 254 C716 236 756 122 870 132 C958 140 1030 198 1110 188" fill="none" stroke="url(#path)" stroke-width="5" stroke-linecap="round"/>
+  <g font-family="Segoe UI, Arial, sans-serif">
+    <g transform="translate(168 210)">
+      <circle r="16" fill="#22d3ee"/>
+      <text x="-48" y="-30" fill="#e2e8f0" font-size="18" font-weight="700">15+ systems</text>
+      <text x="-76" y="42" fill="#94a3b8" font-size="14">Projects spanning healthcare, analytics, and products</text>
+    </g>
+    <g transform="translate(414 182)">
+      <circle r="16" fill="#38bdf8"/>
+      <text x="-72" y="-30" fill="#e2e8f0" font-size="18" font-weight="700">Healthcare domain depth</text>
+      <text x="-86" y="42" fill="#94a3b8" font-size="14">Clinical training plus AI and data science specialization</text>
+    </g>
+    <g transform="translate(628 254)">
+      <circle r="16" fill="#2dd4bf"/>
+      <text x="-52" y="-30" fill="#e2e8f0" font-size="18" font-weight="700">15+ credentials</text>
+      <text x="-84" y="42" fill="#94a3b8" font-size="14">Continuous learning in ML, GenAI, RAG, and cloud</text>
+    </g>
+    <g transform="translate(874 132)">
+      <circle r="16" fill="#67e8f9"/>
+      <text x="-80" y="-30" fill="#e2e8f0" font-size="18" font-weight="700">LLM post-training work</text>
+      <text x="-76" y="42" fill="#94a3b8" font-size="14">Hands-on exposure to advanced AI system workflows</text>
+    </g>
+    <g transform="translate(1072 188)">
+      <circle r="16" fill="#facc15"/>
+      <text x="-88" y="-30" fill="#e2e8f0" font-size="18" font-weight="700">Community + conference signal</text>
+      <text x="-94" y="42" fill="#94a3b8" font-size="14">Telemedicine and digital health participation</text>
+    </g>
+  </g>
+</svg>
