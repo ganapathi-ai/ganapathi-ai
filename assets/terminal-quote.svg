@@ -3,12 +3,12 @@
   <desc id="desc">Terminal style closing panel with a short philosophy statement.</desc>
   <defs>
     <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%">
-      <stop offset="0%" stop-color="#FBE3F0"/>
-      <stop offset="100%" stop-color="#E7D2FA"/>
+      <stop offset="0%" stop-color="#F4C6DD"/>
+      <stop offset="100%" stop-color="#DEBAF2"/>
     </linearGradient>
   </defs>
   <rect width="1200" height="300" rx="28" fill="url(#bg)"/>
-  <rect x="70" y="48" width="1060" height="204" rx="20" fill="#F4DDEE" stroke="#D85C96" stroke-opacity="0.4"/>
+  <rect x="70" y="48" width="1060" height="204" rx="20" fill="#EFC2D6" stroke="#D85C96" stroke-opacity="0.4"/>
   <circle cx="106" cy="74" r="6" fill="#D85C96"/>
   <circle cx="128" cy="74" r="6" fill="#AD63E6"/>
   <circle cx="150" cy="74" r="6" fill="#D28BE7"/>
@@ -17,6 +17,7 @@
   <text x="100" y="168" fill="#4F355A" font-family="Consolas, 'Courier New', monospace" font-size="28">&gt; Turning data into decisiveness, one system at a time.</text>
   <text x="100" y="208" fill="#765F79" font-family="Consolas, 'Courier New', monospace" font-size="20">&gt; Open to healthcare AI, analytics, product intelligence, and meaningful collaboration _</text>
 </svg>
+
 
 
 
