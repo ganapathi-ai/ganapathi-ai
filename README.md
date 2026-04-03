@@ -26,7 +26,7 @@ I'm a **Data Scientist & AI Engineer** specializing in solving complex healthcar
 
 **Expertise Areas:** Healthcare Analytics • AI/ML • Business Intelligence • Data Science • Deep Learning • Generative AI • RAG Systems
 
-> 💡 **Philosophy:** *Turning data into decisiveness, one algorithm at a time.*
+> 💡 **Philosophy:** *“Information is the oil of the 21st century, and analytics is the combustion engine.” – Peter Sondergaard (Gartner Research)*
 
 ---
 
@@ -128,7 +128,7 @@ I'm a **Data Scientist & AI Engineer** specializing in solving complex healthcar
 ![AWS AI Fundamentals](https://img.shields.io/badge/AWS%20AI%20%26%20Cloud-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![IBM AI Fundamentals](https://img.shields.io/badge/IBM%20AI%20Fundamentals-0F62FE?style=for-the-badge&logo=ibm&logoColor=white)
 
-**Deep Learning (IIT Ropar)** • **DeepLearning.AI & Stanford** • **IBM - RAG & Vector Databases** • **IBM - Multimodal Gen AI** • **Google - AI Tools Productivity** • **IBM - Gen AI Applications** • **ADiRA - AI for Digital Readiness**
+**Deep Learning (IIT Ropar)** • **DeepLearning.AI & Stanford-Supervised ML** • **IBM - RAG & Vector Databases** • **IBM - Multimodal Gen AI** • **Google - AI Tools Productivity** • **IBM - Gen AI Applications** • **ADiRA - AI for Digital Readiness**
 
 </div>
 
