@@ -169,28 +169,45 @@ I'm a **Data Scientist & AI Engineer** specializing in transforming raw data int
 
 ---
 
-## 📊 **Skill Proficiency & Expertise Levels**
+## 📊 **Core Competencies**
 
-<img src="https://readme-typing-svg.herokuapp.com?font=IBM+Plex+Mono&size=20&pause=1000&color=32CD32&center=true&vCenter=true&width=600&lines=Professional+Expertise+Matrix;Visual+Skill+Assessment" width="100%">
+<img src="https://readme-typing-svg.herokuapp.com?font=IBM+Plex+Mono&size=20&pause=1000&color=32CD32&center=true&vCenter=true&width=600&lines=Professional+Expertise+Areas;Proven+Technical+Skills" width="100%">
 
 <div align="center">
 
-| Category | Skill | Proficiency |
-|----------|-------|-------------|
-| 🏥 **Healthcare** | Clinical Analytics | ███████████████████░ 95% |
-| | Cardiac Care Technology | ██████████████████░░ 90% |
-| 🤖 **AI/ML** | Deep Learning | ███████████████████░ 95% |
-| | Generative AI & LLM | ████████████████░░░░ 85% |
-| | Machine Learning | ███████████████████░ 95% |
-| 📊 **Data Science** | Python Programming | █████████████████░░░ 100% |
-| | Data Visualization | ████████████████░░░░ 80% |
-| | Statistical Analysis | ███████████████████░ 90% |
-| 📈 **Analytics & BI** | Power BI | ████████████████░░░░ 85% |
-| | Tableau | ████████████████░░░░ 80% |
-| 💻 **Development** | Full-Stack Development | █████████████░░░░░░░ 75% |
-| | Backend Engineering | ████████████████░░░░ 80% |
-| 🚀 **DevOps** | Docker & Containerization | ████████████░░░░░░░░ 70% |
-| | CI/CD Pipelines | ███████████░░░░░░░░░ 65% |
+### 🎯 **Key Expertise Areas**
+
+```
+🏥 HEALTHCARE
+   • Clinical Analytics & Patient Outcomes
+   • Cardiac Care Technology
+   • Healthcare Operations Optimization
+
+🤖 AI & MACHINE LEARNING
+   • Deep Learning & Neural Networks
+   • Generative AI & Large Language Models (LLM)
+   • Machine Learning pipelines & Production ML
+
+📊 DATA SCIENCE & ANALYTICS
+   • Python Data Science & Statistical Analysis
+   • Data Visualization & Dashboard Design
+   • Business Intelligence & Insights Generation
+
+💻 FULL-STACK DEVELOPMENT
+   • Backend Architecture & API Design
+   • Full-stack Systems Development
+   • Web Applications & Deployment
+
+📈 BUSINESS INTELLIGENCE
+   • Power BI & Tableau Dashboards
+   • KPI Development & Financial Analytics
+   • Data-Driven Decision Support
+
+🚀 DEVOPS & DEPLOYMENT
+   • Docker & Container Orchestration
+   • CI/CD Pipelines & Automation
+   • Cloud Infrastructure Management
+```
 
 </div>
 
