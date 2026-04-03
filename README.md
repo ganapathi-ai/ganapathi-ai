@@ -1,4 +1,4 @@
-# 👋 Ganapathi Kakarla | Data Scientist & AI Engineer
+# 👋 Ganapathi Kakarla | Data Science & AI Engineering
 
 <div align="center">
 
@@ -45,9 +45,7 @@ I'm a **Data Scientist & AI Engineer** specializing in solving complex healthcar
 
 ### 🚀 Active Roles
 - **LLM Post Training Intern** @ Ethara.AI (Gurugram) - *Feb 2026 – Present*
-- **Data Science Intern** @ Unified Mentor - *Jan 2026 – Present*
-- **AI Intern** @ Clinchbridge - *Jan 2026 – Feb 2026*
-
+- 
 ### 🏥 Healthcare Experience
 - **Cardiovascular Technical Intern** @ KIMS HOSPITALS, Srikakulam - *April 2024 – April 2025*
 - **Cardiovascular Technical Trainee** @ KIMS-SUNSHINE HOSPITALS, Hyderabad - *Oct 2023 – Dec 2023*
