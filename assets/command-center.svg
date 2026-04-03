@@ -3,21 +3,21 @@
   <desc id="desc">Mission control style frame for GitHub analytics and contribution metrics.</desc>
   <defs>
     <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%">
-      <stop offset="0%" stop-color="#121319"/>
-      <stop offset="100%" stop-color="#24162d"/>
+      <stop offset="0%" stop-color="#FFF4FB"/>
+      <stop offset="100%" stop-color="#F6E8FF"/>
     </linearGradient>
   </defs>
   <rect width="1200" height="180" rx="28" fill="url(#bg)"/>
-  <rect x="24" y="24" width="1152" height="132" rx="24" fill="#17131b" fill-opacity="0.84" stroke="#b692d9" stroke-opacity="0.3"/>
-  <text x="88" y="92" fill="#f6edf4" font-family="Segoe UI, Arial, sans-serif" font-size="30" font-weight="700">Live GitHub telemetry</text>
+  <rect x="24" y="24" width="1152" height="132" rx="24" fill="#FFF9FC" fill-opacity="0.84" stroke="#b692d9" stroke-opacity="0.3"/>
+  <text x="88" y="92" fill="#4F355A" font-family="Segoe UI, Arial, sans-serif" font-size="30" font-weight="700">Live GitHub telemetry</text>
   <g font-family="Consolas, 'Courier New', monospace" font-size="16">
-    <rect x="660" y="56" width="132" height="44" rx="16" fill="#221725" stroke="#e33d82" stroke-opacity="0.4"/>
-    <text x="686" y="83" fill="#f6edf4">STATS</text>
-    <rect x="810" y="56" width="132" height="44" rx="16" fill="#221725" stroke="#e97a2d" stroke-opacity="0.4"/>
-    <text x="830" y="83" fill="#f6edf4">STREAK</text>
-    <rect x="960" y="56" width="132" height="44" rx="16" fill="#221725" stroke="#f4c397" stroke-opacity="0.4"/>
-    <text x="978" y="83" fill="#f6edf4">LANGS</text>
-    <rect x="810" y="108" width="132" height="30" rx="15" fill="#221725" stroke="#b692d9" stroke-opacity="0.4"/>
-    <text x="824" y="128" fill="#f6edf4">ACTIVITY</text>
+    <rect x="660" y="56" width="132" height="44" rx="16" fill="#F9EEF9" stroke="#e33d82" stroke-opacity="0.4"/>
+    <text x="686" y="83" fill="#4F355A">STATS</text>
+    <rect x="810" y="56" width="132" height="44" rx="16" fill="#F9EEF9" stroke="#e97a2d" stroke-opacity="0.4"/>
+    <text x="830" y="83" fill="#4F355A">STREAK</text>
+    <rect x="960" y="56" width="132" height="44" rx="16" fill="#F9EEF9" stroke="#f4c397" stroke-opacity="0.4"/>
+    <text x="978" y="83" fill="#4F355A">LANGS</text>
+    <rect x="810" y="108" width="132" height="30" rx="15" fill="#F9EEF9" stroke="#b692d9" stroke-opacity="0.4"/>
+    <text x="824" y="128" fill="#4F355A">ACTIVITY</text>
   </g>
 </svg>
