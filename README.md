@@ -48,9 +48,9 @@ It is engineered to feel printed, not rendered: grain-textured backgrounds, vari
 
 ---
 
-## § III · The Fourteen Notebooks
+## § III · Then Notebooks
 
-The portfolio presents 14 case studies across two registers — **10 public** repositories on GitHub, and **4 private** clinical ML projects available on request.
+The portfolio presents some of the case studies across two registers — **10 public** repositories on GitHub, and **4 private** clinical ML projects available on request.
 
 ### Public (10)
 
