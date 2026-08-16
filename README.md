@@ -1,119 +1,98 @@
-﻿<img src="https://capsule-render.vercel.app/api?type=waving&color=0:F4C6DD,20:EDBEE6,46:DEBAF2,74:DBB6F3,100:AD63E6&height=260&section=header&text=Ganapathi%20Kakarla&fontSize=70&fontAlignY=38&fontColor=4F355A&desc=AI%20Engineer%20%7C%20Data%20Scientist%20%7C%20Healthcare%20Specialist&descAlignY=56&animation=twinkling" width="100%" alt="Header banner" />
+﻿<div align="center">
 
-<p align="center">
-  <img src="./assets/system-hero.svg" width="100%" alt="Profile hero banner" />
-</p>
+  <p align="center">
+    <a href="https://ganapathi-ai.github.io/Portfolio/"><img src="https://img.shields.io/badge/◉_LIVE_SITE-ganapathi--ai.github.io-b8592d?style=for-the-badge&labelColor=1a1613" alt="Live Site"></a>
+    <a href="https://github.com/ganapathi-ai/Portfolio"><img src="https://img.shields.io/badge/§_NOTEBOOK-v.04-1a1613?style=for-the-badge&labelColor=f1ebdf&color=1a1613" alt="Notebook v04"></a>
+  </p>
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=31&duration=38&pause=420&color=D85C96&center=true&vCenter=true&width=1080&height=72&lines=Data+Scientist;AI+Engineer;Healthcare+Specialist;Healthcare+Intelligence+Builder" width="100%" alt="Animated designation banner" />
-</p>
+  <br/>
 
-## About
+  <h1 align="center">The Practitioner's Notebook</h1>
 
-<p align="center">
-  <img src="./assets/about-hud.svg" width="100%" alt="Professional profile panel" />
-</p>
+  <p align="center">
+    <sub>
+      A single-page portfolio for <b>Ganapathi Kakarla</b> —<br/>
+      cardiac care technologist · healthcare AI practitioner · MMXXVI.
+    </sub>
+  </p>
 
-Currently pursuing a **PGDM in AI and Data Science (Healthcare)** at **IIHMR Bangalore** after a **B.Sc in Cardiac Care and Cardiovascular Technology**, I build systems at the intersection of healthcare analytics, business intelligence, machine learning, and product thinking. My work is centered on turning complex data into clear decisions, usable tools, and measurable outcomes.
+  <br/>
 
-## Education & Experience
+  <img src="https://readme-typing-svg.demolab.com?font=Fraunces&weight=400&size=18&duration=3200&pause=600&color=B8592D&center=true&vCenter=true&multiline=false&width=700&height=40&lines=Cardiac+care+meets+machine+learning.;Fourteen+notebooks%2C+shipped+and+measured.;Clinical+AI+that+respects+the+bedside." alt="Typing SVG" />
 
-<p align="center">
-  <img src="./assets/timeline-system.svg?v=20260404b" width="100%" alt="Professional timeline" />
-</p>
+</div>
 
-## Core Strengths
+<br/>
 
-<p align="center">
-  <img src="./assets/skill-network.svg" width="100%" alt="Core strengths network" />
-</p>
+---
 
-<p align="center">
-  Python | TypeScript | SQL | R | TensorFlow | Scikit-Learn | Power BI | Tableau | Streamlit | Docker | PostgreSQL | MongoDB
-</p>
+## § I · Colophon
 
-## Certifications
+This is not a template portfolio. It is a self-contained editorial manuscript — set in **Fraunces**, **Inter**, and **JetBrains Mono** — designed in the voice of a practitioner's research notebook rather than a developer's landing page. The palette is warm paper and copper ink, not neon and glass.
 
-<p align="center">
-  <img src="./assets/certification-grid.svg" width="100%" alt="Certification overview" />
-</p>
+It is engineered to feel printed, not rendered: grain-textured backgrounds, variable-weight serif with optical sizing, section numbering in the scholarly style (§ I through § VI), and a horizontal-scroll filmstrip of project case studies.
 
-<p align="center">
-  IIT Ropar NPTEL | DeepLearning.AI / Stanford | IBM | Google | AWS | ADiRA
-</p>
+---
 
-## Featured Projects
+## § II · The Practitioner
 
-<p align="center">
-  <img src="./assets/project-modules.svg" width="100%" alt="Featured project modules" />
-</p>
+**Ganapathi Kakarla** is a cardiac care technologist turned AI practitioner. Two years of clinical work at KIMS Hospitals (ECG, ECHO, TEE, TMT) preceded the first line of Python — and that domain fluency is the signature of the work below.
 
-| Module | What it does |
-| --- | --- |
-| [Product Optimization](https://github.com/ganapathi-ai/Product_Optimization_-_Revenue_Contribution_Analysis) | Revenue contribution analysis and product portfolio insight generation |
-| [APL Logistics Intelligence](https://github.com/ganapathi-ai/APL_Logistics_Profitability_Intelligence-) | Supply chain profitability analytics and decision support |
-| [Healthcare Ops Dashboard](https://github.com/ganapathi-ai/Healthcare-Operations-Dashboard--POWER-BI) | Power BI dashboard for clinical KPIs and hospital operations visibility |
-| [UAC Care Transition](https://github.com/ganapathi-ai/uac-care-transition-analytics) | Patient journey analytics and care-flow optimization |
-| [LinkedIn Content Engine](https://github.com/ganapathi-ai/LinkedIn-Content-Engine-) | Content intelligence system for engagement-oriented optimization |
-| [VerbLume](https://github.com/ganapathi-ai/VerbLume) | Adaptive language learning platform with AI-guided progression |
+| Discipline | Where it was learned |
+|---|---|
+| Cardiac Care & Cardiovascular Technology | KIMS Hospitals, Srikakulam · KIMS-SUNSHINE, Hyderabad |
+| B.Sc (70.2%) | Dr. NTR University of Health Sciences, Vijayawada |
+| PGDM — AI & Data Science in Healthcare | IIHMR Bangalore (graduating June 2027) |
+| LLM Post-Training | Ethara.AI · Gurugram (Remote) |
+| Data Science | Unified Mentor Pvt. Ltd. (Remote) |
 
-## Highlights
+---
 
-<p align="center">
-  <img src="./assets/achievement-path.svg" width="100%" alt="Achievement milestones" />
-</p>
+## § III · The Fourteen Notebooks
 
-## GitHub Analytics
+The portfolio presents 14 case studies across two registers — **10 public** repositories on GitHub, and **4 private** clinical ML projects available on request.
 
-<p align="center">
-  <img src="./assets/command-center.svg" width="100%" alt="GitHub analytics header" />
-</p>
+### Public (10)
 
-<table>
-  <tr>
-    <td width="50%">
-      <img src="https://github-readme-stats.vercel.app/api?username=ganapathi-ai&show_icons=true&hide_border=true&bg_color=F1C3DC&title_color=D85C96&text_color=765F79&icon_color=DBB6F3&ring_color=AD63E6" width="100%" alt="GitHub stats" />
-    </td>
-    <td width="50%">
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=ganapathi-ai&background=F1C3DC&ring=AD63E6&fire=D85C96&currStreakLabel=4F355A&sideLabels=765F79&dates=8E6D8D&hide_border=true&stroke=00000000" width="100%" alt="GitHub streak" />
-    </td>
-  </tr>
-  <tr>
-    <td colspan="2">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ganapathi-ai&layout=compact&hide_border=true&bg_color=F1C3DC&title_color=D85C96&text_color=765F79" width="100%" alt="Top languages" />
-    </td>
-  </tr>
-</table>
+| № | Project | Focus | Stack |
+|---|---|---|---|
+| 01 | **Videogen** — AI video pipeline | GenAI · FFmpeg | Python · TypeScript · Kokoro-82M · WhisperX · [**LIVE →**](https://videogen-swart.vercel.app) |
+| 02 | **Meluko Manasa** — Telugu Podcast Studio | AI audio production | Node.js · Gemini 1.5 · Google TTS · FFmpeg |
+| 03 | **APL Logistics** — Supply chain intelligence | Analytics · $36.7M | Python · Streamlit · Plotly · 180K records |
+| 04 | **Afficionado Coffee** — Pareto analysis | Product analytics | Python · Streamlit · 149K TXNs · $698K |
+| 05 | **ECB Retention Strategy** — European banking | Behavioral analytics | Python · Streamlit · 10K customers · GDPR |
+| 06 | **UAC Care Transitions** — HHS analytics | Healthcare ops | Python · Streamlit · Plotly |
+| 07 | **Healthcare Ops** — Power BI dashboard | Clinical BI | Power BI · DAX · Excel |
+| 08 | **VerbLume** — AI language learning | EdTech · LLM | TypeScript · Gemini · Vite |
+| 09 | **LinkedIn Content Engine** — NLP optimizer | Creator tools | TypeScript · Gemini · NLP |
+| 10 | **ML CI/CD Pipeline** — MLOps template | DevOps | Python · GitHub Actions |
 
-## Activity
+### Private (4)
 
-<p align="center">
-  <img src="./assets/snake-ecosystem.svg" width="100%" alt="Activity header" />
-</p>
+| № | Project | Focus |
+|---|---|---|
+| 11 | Diabetic Foot Ulcer — Image Segmentation | ResNet34 + U-Net · medical CV |
+| 12 | EchoLens — AI-assisted echo reporting | RAG · ASE guidelines · clinical NLP |
+| 13 | Fetal Health Classification — CTG | ML · bedside Streamlit UI · ObGyn |
+| 14 | VAP Prevention — Survival Analysis | Cox regression · Kaplan-Meier · ICU |
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ganapathi-ai&bg_color=F4C6DD&color=8E6D8D&line=D85C96&point=DBB6F3&area=true&hide_border=true" width="100%" alt="Contribution activity graph" />
-</p>
+---
 
-## Connect
+## § IV · Design Principles
 
-<p align="center">
-  <img src="./assets/orbit-contact.svg" width="100%" alt="Contact network" />
-</p>
+This notebook was built on six editorial convictions:
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/ganapathi-kakarla-ai-data-science"><img src="https://img.shields.io/badge/LinkedIn-Connect-D85C96?style=for-the-badge&labelColor=D28BE7&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="https://github.com/ganapathi-ai"><img src="https://img.shields.io/badge/GitHub-Follow-D28BE7?style=for-the-badge&labelColor=AD63E6&logo=github&logoColor=white" alt="GitHub" /></a>
-  <a href="mailto:kakarlagana18@gmail.com"><img src="https://img.shields.io/badge/Email-Write-AD63E6?style=for-the-badge&labelColor=E2C0F6&logo=gmail&logoColor=white" alt="Email" /></a>
-  <a href="https://orcid.org/0009-0003-1251-6581"><img src="https://img.shields.io/badge/ORCID-Profile-D28BE7?style=for-the-badge&labelColor=D85C96&logo=orcid&logoColor=white" alt="ORCID" /></a>
-  <a href="https://www.credly.com/users/ganapathi-kakarla"><img src="https://img.shields.io/badge/Credly-Badges-D85C96?style=for-the-badge&labelColor=E2C0F6" alt="Credly" /></a>
-</p>
+- **Paper over pixels.** Warm ivory `#f1ebdf` and copper `#b8592d` replace the default dark-tech palette.
+- **Serif as structure.** Fraunces (variable, with optical sizing and soft italics) carries the hierarchy; Inter and JetBrains Mono do the work.
+- **Scholarly numbering.** Sections are `§ I` through `§ VI`, credentials `§ A` through `§ H` — a monograph, not a landing page.
+- **Horizontal filmstrip.** All 14 projects sit on one drag-to-scroll gallery rather than a 2D grid.
+- **Sticky-scroll arc.** The career story uses an Apple-style sticky left column while the right column scrolls past.
+- **Asymmetric bento.** Capabilities are a 10-cell grid with a manifesto cell, stat cells, skill clusters, and a pull-quote — never a uniform 3-column grid.
 
-<p align="center">
-  <img src="./assets/terminal-quote.svg" width="100%" alt="Closing terminal panel" />
-</p>
+---
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:F4C6DD,20:EDBEE6,46:DEBAF2,74:DBB6F3,100:AD63E6&height=160&section=footer" width="100%" alt="Footer banner" />
+## § V · Technical Stack
+
 
 
 
